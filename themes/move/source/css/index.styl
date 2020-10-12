@@ -1,0 +1,429 @@
+@import 'challenge'
+@import 'settings'
+
+html
+  background $purple
+  padding 0
+
+html,
+body
+  color $text
+  font-weight 500
+  height 100%
+  margin 0
+  overflow-x hidden
+  position relative
+  width 100%
+
+body
+  font-family 'Raleway', sans-serif
+  opacity 0
+  padding 0
+  transition opacity 0.25s
+  &.loaded
+    opacity 1 !important
+
+ol
+  padding-left 20px
+
+ul
+  list-style none
+  padding 0
+
+  li
+    margin 10px 0
+
+b, p, li
+  font-size 20px
+  line-height 36px
+  +media1200()
+    max-width 800px
+    text-align justify
+
+a
+  color $text
+  font-weight bold
+  text-decoration none
+  transition all .2s
+  &:hover:not(.button)
+    text-decoration underline
+    textShadow()
+
+h1, h2, h3
+  color #3A303A
+  font-family 'Fredoka One', sans-serif
+  textShadow()
+
+h3
+  font-size 28px
+  line-height 42px
+
+button,
+.button,
+input[type="submit"]
+  background $blue
+  backface-visibility hidden
+  border 0
+  border-radius 5px
+  boxShadow()
+  color $text
+  cursor pointer
+  font-size 18px
+  height 60px
+  max-width 768px
+  inputHover()
+  padding 15px 30px 15px 30px
+  text-decoration none
+  transform none
+  vertical-align middle
+  &[disabled]
+    pointer-events none
+  &:hover
+    background lighten($blue, 20%)
+  &:active
+    background darken($blue, 5%)
+
+input[type="email"],
+input[type="text"]
+  background #FAFAFA
+  border 0
+  border-radius 5px
+  boxShadow()
+  color $text
+  font-family 'Font Awesome 5 Pro', 'Raleway'
+  font-size 18px
+  height 50px
+  inputHover()
+  margin-bottom 15px
+  max-width 768px
+  text-align center
+  transition all .2s
+  vertical-align middle
+
+.header
+  align-items center
+  display flex
+  justify-content center
+
+  .wordmark
+    color $yellow
+    font-family 'Titan One'
+    font-size 42px
+    line-height 56px
+    margin-bottom 0
+    margin-right 20px
+    margin-top 0
+    text-shadow 0px 4px 4px rgba(0, 0, 0, 0.25)
+    text-transform uppercase
+    +media1200()
+      font-size 60px
+      margin-right 30px
+
+  .logo
+    max-width 60px
+    +media1200()
+      max-width 100px
+      width 100px
+
+ul.bulletPoints
+  align-items flex-start
+  display flex
+  flex-direction column
+  margin-top 0
+  li
+    align-items center
+    display flex
+    text-align left
+    i
+      color $white
+      font-size 34px
+      margin-right 40px
+      textShadow()
+      width 30px
+
+#container
+  height 100%
+  width 100%
+
+section
+  align-items center
+  display flex
+  flex-direction column
+  position relative
+  padding-top 60px
+  text-align center
+  width 100%
+  +media1200()
+    &:not(.hero)
+      padding-bottom 20px
+
+.sectionInner
+  align-items center
+  display flex
+  flex-direction column
+  flex-wrap wrap
+  justify-content center
+  padding 0 20px
+  width calc(100% - 40px)
+  h3 + p
+    margin-top 5px
+  > p
+    text-align justify
+
+  .sectionInnerColumns
+    align-items center
+    display flex
+    flex-direction column
+    img
+      max-width 200px
+    > div
+      align-items center
+      display flex
+      flex-direction column
+    +media1200()
+      align-items center
+      display flex
+      flex-direction row
+      justify-content center
+      flex-wrap nowrap
+      > :first-child
+        margin-right 50px
+      &.reverse
+        flex-direction row-reverse
+        > :first-child
+          margin-right 0
+        > :last-child
+          margin-right 50px
+
+.wave
+  bottom 0
+  position absolute
+  transform scaleX(5) translateY(35px)
+  height 40px
+  +media768()
+    height 50px
+    transform scaleX(10) translateY(45px)
+
+section.hero
+  sectionPurple()
+  padding-top 0
+  z-index 20
+  +media1200()
+    padding-top 0
+
+  .sectionInner
+    padding-bottom 20px
+    +media1200()
+      flex-direction row
+      flex-wrap nowrap
+      padding-left 30px
+      padding-right 30px
+      padding-bottom 20px
+      padding-top 20px
+      width calc(100% - 60px)
+
+  .heroLeft
+    +media1200()
+      margin-right 50px
+    +media1200()
+      margin-right 100px
+
+  img.hero
+    &.heroImgDesktop
+      display none
+      height 600px
+      max-width 100%
+      margin-left -50px
+      margin-right -50px
+      margin-bottom -40px
+      +media1200()
+        display inline-block
+
+    &.heroImgMobile
+      display inline-block
+      margin-bottom -20px
+      margin-top 20px
+      max-width 500px
+      transform scale(1.1)
+      width 100%
+      +media1200()
+        display none
+
+  .title
+    color $white
+    font-size 36px
+    margin-top 20px
+    margin-bottom 15px
+    +media1200()
+      font-size 45px
+      margin-top 50px
+
+  .subtitle
+    font-size 22px
+    margin 0
+    max-width 100%
+    text-align center
+    +media1200()
+      font-size 26px
+      margin 10px 0 50px 0
+
+  form.subscribe
+    +media1200()
+      align-items center
+      flex-direction row
+      flex-wrap nowrap
+      input
+        margin 0 20px 0 0
+        width 60%
+      button
+        width 40%
+
+  .challenge.button
+    background $blue
+    display inline-block
+    height auto
+    font-weight 400
+    i
+      margin-right 5px
+
+form.subscribe
+  align-items center
+  display flex
+  flex-direction column
+  justify-content center
+  margin-top 40px
+  width 100%
+
+  input,
+  button
+    width 100%
+
+  button
+    font-weight bold
+
+section.problem
+  sectionYellow()
+  z-index 10
+
+  img
+    border-radius 200px
+    boxShadow()
+    height 200px
+    margin-bottom 20px
+    width 200px
+
+section.flashcard
+  sectionBlue()
+  z-index 5
+
+section.coach
+  sectionPurple()
+  z-index 4
+
+section.language
+  sectionYellow()
+  z-index 3
+
+section.subscribe
+  sectionBlue()
+  padding-bottom 20px
+  z-index 2
+  button
+    background $purple
+  .pourImage
+    gradient($red, lighten($red, 20%))
+    border-radius 300px
+    boxShadow()
+    height 150px
+    width 150px
+    img
+      left 8px
+      position relative
+      max-width 150px
+
+section.about
+  sectionYellow()
+  z-index 1
+  img
+    border-radius 200px
+    height 200px
+    width 200px
+    margin-bottom 20px
+    boxShadow()
+  a
+    color $black
+    font-weight bold
+    &:hover
+      color $purple
+      text-decoration none
+
+section.footer
+  display flex
+  background $red
+  flex-direction row
+  justify-content center
+  padding 80px 0 40px 0
+  width 100%
+  z-index 0
+
+  a
+    font-size 36px
+    cursor pointer
+    color $white
+    margin 0 15px
+    textShadow()
+  svg
+    fill $white
+    height 40px
+    width 40px
+    transition fill .2s
+    &:hover
+      fill $blue
+
+.items
+  align-items center
+  display flex
+  flex-direction column
+  justify-content center
+  width 100%
+  li
+    align-items center
+    display flex
+    justify-content center
+    margin-bottom 30px
+    width 100%
+  img
+    border-radius 320px
+    boxShadow()
+    height 320px
+    width 320px
+  div
+    display flex
+    flex-direction column
+  p:first-child
+    font-family 'Fredoka One'
+    font-weight bold
+    max-width 80%
+    width 850px
+  p:last-child
+    color $gray
+    margin 0
+    max-width 80%
+  .strikePrice
+    font-family 'Raleway'
+    opacity 0.5
+    text-decoration line-through
+    textShadow()
+
+section.category:nth-child(2)
+  sectionYellow()
+section.category:nth-child(3)
+  sectionBlue()
+section.category:nth-child(4)
+  sectionPurple()
+section.category:nth-child(5)
+  sectionYellow()
+section.category:nth-child(6)
+  sectionBlue()
+section.category:nth-child(7)
+  sectionYellow()

@@ -1,0 +1,125 @@
+$black=#333
+$blue=#9ADEFE
+$darkblue=#555588
+$green=#bdedb6
+$purple=#D4C3E6
+$red=#F7B8B5
+$white=#FAFAFA
+$yellow=#F4E3B7
+
+$primary=$purple
+$secondary=$blue
+$tertiary=$yellow
+$text=$black
+$shadow=rgba(0, 0, 0, 0.25)
+
+$darkblueend=lighten($darkblue, 10%)
+$blueend=#A8E3FF
+$purpleend=#E2CFF7
+$redend=lighten($red, 10%)
+$yellowend=#FFEDBD
+
+boxShadow()
+  box-shadow 0px 2px 2px $shadow
+
+boxShadowFocus()
+  box-shadow 0px 0 0 2px $primary
+
+gradient($start, $end)
+  background radial-gradient(50% 50% at 50% 50%, $start 0%, $end 100%)
+
+wave($color)
+  .wave path
+    fill $color
+
+sectionBlue()
+  gradient($blue, $blueend)
+  wave($blueend)
+
+sectionDarkBlue()
+  gradient($darkblue, $darkblueend)
+  wave($darkblueend)
+
+sectionPurple()
+  gradient($purple, $purpleend)
+  wave($purpleend)
+
+sectionRed()
+  gradient($red, $redend)
+  wave($redend)
+
+sectionYellow()
+  gradient($yellow, $yellowend)
+  wave($yellowend)
+
+textShadow()
+  text-shadow 0px 2px 2px rgba(0, 0, 0, 0.25)
+
+inputHover()
+  transform none
+  transition all .2s
+  &:focus,
+  &:hover
+    box-shadow 0px 6px 6px rgba(0, 0, 0, 0.2)
+    transform translate3d(-2px, -2px, 0)
+  &:active
+    box-shadow 0px 2px 2px rgba(0, 0, 0, 0.3)
+    transform none
+
+backgroundBlock()
+  boxShadow()
+  height 100%
+  left -100%
+  position absolute
+  top 0
+  transform rotate3d(0, 0, 1, -7.5deg)
+  width 300%
+  z-index -1
+
+media600() {
+  @media (min-width: 600px) {
+    {block}
+  }
+}
+
+media768() {
+  @media (min-width: 768px) {
+    {block}
+  }
+}
+
+media1024() {
+  @media (min-width: 1024px) {
+    {block}
+  }
+}
+
+media1200() {
+  @media (min-width: 1200px) {
+    {block}
+  }
+}
+
+media1600() {
+  @media (min-width: 1600px) {
+    {block}
+  }
+}
+
+media1920() {
+  @media (min-width: 1920px) {
+    {block}
+  }
+}
+
+mediaHeight600() {
+  @media (max-height: 600px) {
+    {block}
+  }
+}
+
+mediaLandscape() {
+  @media (orientation: landscape) and (max-height: 480px) {
+    {block}
+  }
+}

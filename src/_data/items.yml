@@ -1,0 +1,88 @@
+categories:
+  - name: Electronics
+    items:
+      - i: HTC Vive
+        p: $100
+        d: Comes with headset, sport band, controllers, Knuckles, base stations, cables
+
+      - i: Oculus Rift S
+        s: $300
+        p: $220
+        d: Used for work. Small piece of foam glued back on. Comes with box and controllers
+
+      - i: Razer Blade 2016 GTX1060 Gaming Laptop
+        p: $400
+        d: Used for work. Good condition laptop with charger
+
+      - i: 128GB iPhone 6
+        p: $40
+        d: Used condition, screen in good condition, no cracks
+
+      - i: Amazon Echo Show
+        p: $40
+        d: Good condition, originally bought at $130
+
+      - i: Amazon Fire Stick 1080P
+        p: $5
+        d: New, sealed in box
+
+      - i: Apple TV 4th Generation
+        s: $135
+        p: $100
+        d: Great condition, originally bought at $200
+
+      - i: Apple Magic Mouse 2
+        s: $60
+        p: $30
+        d: Rarely used. Goes for $79 new.
+
+  - name: Games
+    items:
+      - i: Super Mario Odyssey (Switch)
+        s: $40
+        p: $30
+        d: Nintendo Switch game. Box and cartridge, like new. We beat it together, super fun!
+
+      - i: Pokemon Shield (Switch)
+        s: $50
+        p: $40
+        d: Nintendo Switch game. Box and cartridge, like new
+
+      - i: Mario & Sonic at the Olympic Games (Switch)
+        s: $45
+        p: $25
+        d: Nintendo Switch game. Box and cartridge, like new
+
+      - i: Overwatch (PS4)
+        p: $10
+        d: PS4 game. Goes for $20 online
+
+  - name: Furniture
+    items:
+      - i: Ikea Chair
+        p: $20
+        d: Great condition, clean
+
+      - i: Kneeling Chair
+        p: $60
+        d: Like new, bought for $150
+
+  - name: Books
+    items:
+      - i: Watchmen
+        s: $25
+        p: $10
+        d: Very popular comic, good condition
+
+  - name: Outdoors
+    items:
+      - i: Garcia Bear Canister
+        s: $60
+        p: $20
+        d: Bear canister, originally bought at $80. Indestructible
+
+  - name: Other Stuff
+    items:
+      - i: Productivity Hourglasses
+        p: $10
+        d: Beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore

@@ -1,0 +1,63 @@
+<div id="container">
+  <section class="hero">
+    <div class="sectionInner">
+      <div class="heroLeft">
+        <div class="header">
+          <h1 class="wordmark">Everything Must Go!</h1>
+        </div>
+
+        <h2 class="title">San Francisco Move Out Sale</h2>
+
+        <img class="hero heroImgMobile" src="/assets/img/move.png">
+
+        <p class="subtitle">Fire sale in Outer Richmond near 20th and Geary</p>
+
+        <a class="button challenge" href="mailto: kevin@learncoupling.com">
+          <i class="fal fa-email"></i>
+          Email kevin@learncoupling.com
+        </a>
+      </div>
+
+      <img class="hero heroImgDesktop" src="/assets/img/move.png">
+    </div>
+    {% include "./svg/wave.svg" %}
+  </section>
+
+  {% for category in site.data.items.categories %}
+    <section class="category" style="z-index: {{ 10 - loop.index0}}">
+      <div class="sectionInner">
+        <h3>{{ category.name }}</h3>
+        <ul class="items">
+          {% for item in category.items %}
+            <li>
+              {% if item.img %}
+                <img src="/assets/img/{{ item.img}}">
+              {% endif %}
+              <div>
+                <p>
+                  {{ item.i }} &mdash;
+                  {% if item.s %}<span class="strikePrice">{{ item.s }}</span>{% endif %}
+                  <span class="price">{{ item.p }}</span>
+                </p>
+                <p>{{ item.d }}</p>
+              </div>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% include "./svg/wave.svg" %}
+    </section>
+  {% endfor %}
+
+  <section class="footer">
+    <a href="https://twitter.com/learncoupling" data-twitter-track>
+      {% include "./svg/twitter.svg" %}
+    </a>
+    <a href="https://facebook.com/learncoupling" data-fb-track>
+      {% include "./svg/facebook.svg" %}
+    </a>
+    <a href="https://instagram.com/learncoupling" data-instagram-track>
+      {% include "./svg/instagram.svg" %}
+    </a>
+  </section>
+</div>

@@ -6,6 +6,7 @@ categories:
         p: $100
         d: Comes with headset, sport band, controllers, Knuckles, base stations, cables
         img: vive.JPG
+        sold: true
 
       - i: Oculus Rift S VR Headset
         s: $300
@@ -17,11 +18,13 @@ categories:
         p: $400
         d: Used for work. Good condition laptop with charger
         img: razer.JPG
+        sold: true
 
       - i: 128GB iPhone 6
         p: $40
         d: Used condition, screen in good condition, no cracks
         img: iphone.JPG
+        sold: true
 
       - i: Amazon Echo Show
         p: $40
@@ -32,6 +35,7 @@ categories:
         p: $5
         d: New, sealed in box
         img: firestick.JPG
+        sold: true
 
       - i: Apple TV 4th Generation
         s: $135
@@ -64,11 +68,13 @@ categories:
         p: $5
         d: It's a dongle
         img: dongle.JPG
+        sold: true
 
       - i: Amazon Fire 7" Tablet
         p: $5
         d: A tablet for $5! Perfect screen condition
         img: fire.JPG
+        sold: true
 
       - i: Apple Wireless Keyboard
         p: $20
@@ -79,6 +85,7 @@ categories:
         p: $10
         d: Samsung wireless keyboard, great condition
         img: samsungkeyboard.JPG
+        sold: true
 
   - name: Games
     icon: fa-gamepad
@@ -90,14 +97,14 @@ categories:
         img: mario.JPG
 
       - i: Pokemon Shield (Switch)
-        s: $50
-        p: $40
+        s: $40
+        p: $30
         d: Nintendo Switch game. Box and cartridge, like new
         img: pokemon.JPG
 
       - i: Mario & Sonic at the Olympic Games (Switch)
         s: $45
-        p: $25
+        p: $20
         d: Nintendo Switch game. Box and cartridge, like new
         img: sonic.JPG
 
@@ -107,12 +114,14 @@ categories:
         img: overwatch.JPG
 
       - i: STOP Thief!
-        p: $15
+        s: $15
+        p: $10
         d: Rare board game where you try to catch an invisible thief, interactive!
         img: stopthief.JPG
 
       - i: 7 Wonders Duel
-        p: $12
+        s: $12
+        p: $10
         d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
         img: duel.JPG
 
@@ -133,6 +142,7 @@ categories:
         p: $10
         d: New condition, bought for $25
         img: fan.JPG
+        sold: true
 
   - name: Books
     icon: fa-books
@@ -147,6 +157,7 @@ categories:
         p: $5
         d: A visual book for learning Chinese characters
         img: chineasy.JPG
+        sold: true
 
       - i: 100 Hikes in the Bay Area
         p: $2

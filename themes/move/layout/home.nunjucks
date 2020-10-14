@@ -31,15 +31,15 @@
         <h3><i class="fal {{ category.icon }}"></i>{{ category.name }}</h3>
         <ul class="items">
           {% for item in category.items %}
-            <li>
+            <li {% if item.sold %}data-sold{% endif %}>
               <div class="img" style="background-image: url(/assets/img/{{ item.img }})" onclick="window.open('https://move.learncoupling.com/assets/img/{{ item.img }}', '_blank');"></div>
               <div>
-                <p>
+                <p class="title">
                   {{ item.i }} &mdash;
                   {% if item.s %}<span class="strikePrice">{{ item.s }}</span>{% endif %}
                   <span class="price">{{ item.p }}</span>
                 </p>
-                <p>{{ item.d }}</p>
+                <p>{% if item.sold %}<b>SOLD /{% endif %}</b>  {{ item.d }}</p>
               </div>
             </li>
           {% endfor %}

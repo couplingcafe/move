@@ -16,6 +16,8 @@
           <i class="fal fa-email"></i>
           Email kevin@learncoupling.com
         </a>
+
+        <p class="note"><i class="fal fa-gift" style="margin-right: 5px"></i>Proceeds go towards <a style="text-decoration: underline" href="https://learncoupling.com">my project to help couples learn each other's languages</a></p>
       </div>
 
       <img class="hero heroImgDesktop" src="/assets/img/move.png">
@@ -26,13 +28,11 @@
   {% for category in site.data.items.categories %}
     <section class="category" style="z-index: {{ 10 - loop.index0}}">
       <div class="sectionInner">
-        <h3>{{ category.name }}</h3>
+        <h3><i class="fal {{ category.icon }}"></i>{{ category.name }}</h3>
         <ul class="items">
           {% for item in category.items %}
             <li>
-              {% if item.img %}
-                <img src="/assets/img/{{ item.img}}">
-              {% endif %}
+              <div class="img" style="background-image: url(/assets/img/{{ item.img }})" onclick="window.open('https://move.coupling.com/assets/img/{{ item.img }}', '_blank');"></div>
               <div>
                 <p>
                   {{ item.i }} &mdash;

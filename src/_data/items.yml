@@ -1,88 +1,206 @@
 categories:
   - name: Electronics
+    icon: fa-plug
     items:
-      - i: HTC Vive
+      - i: HTC Vive VR Headset
         p: $100
         d: Comes with headset, sport band, controllers, Knuckles, base stations, cables
+        img: vive.JPG
 
-      - i: Oculus Rift S
+      - i: Oculus Rift S VR Headset
         s: $300
         p: $220
-        d: Used for work. Small piece of foam glued back on. Comes with box and controllers
+        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
+        img: rift.JPG
 
       - i: Razer Blade 2016 GTX1060 Gaming Laptop
         p: $400
         d: Used for work. Good condition laptop with charger
+        img: razer.JPG
 
       - i: 128GB iPhone 6
         p: $40
         d: Used condition, screen in good condition, no cracks
+        img: iphone.JPG
 
       - i: Amazon Echo Show
         p: $40
         d: Good condition, originally bought at $130
+        img: echo.JPG
 
       - i: Amazon Fire Stick 1080P
         p: $5
         d: New, sealed in box
+        img: firestick.JPG
 
       - i: Apple TV 4th Generation
         s: $135
         p: $100
         d: Great condition, originally bought at $200
+        img: appletv.JPG
 
       - i: Apple Magic Mouse 2
         s: $60
-        p: $30
-        d: Rarely used. Goes for $79 new.
+        p: $40
+        d: Rarely used. Goes for $79 new
+        img: magicmouse.JPG
+
+      - i: Apple Airpods 1
+        p: $60
+        d: Great and clean working condition. Goes for $120+ retail
+        img: airpod.JPG
+
+      - i: 2013 Macbook 13" 256GB Retina
+        p: $250
+        d: Great cosmetic condition. Missing rubber feet underneath. Touchpad physical clicks often don't register
+        img: macbook.JPG
+
+      - i: ASUS 24" VN248H IPS Monitor
+        p: $40
+        d: 1920x1080 HD monitor, no scratches
+        img: asus.JPG
+
+      - i: USB C Dongle
+        p: $5
+        d: It's a dongle
+        img: dongle.JPG
+
+      - i: Amazon Fire 7" Tablet
+        p: $5
+        d: A tablet for $5! Perfect screen condition
+        img: fire.JPG
+
+      - i: Apple Wireless Keyboard
+        p: $20
+        d: Wireless bluetooth keyboard, great condition
+        img: keyboard.JPG
+
+      - i: Samsung Keyboard
+        p: $10
+        d: Samsung wireless keyboard, great condition
+        img: samsungkeyboard.JPG
 
   - name: Games
+    icon: fa-gamepad
     items:
       - i: Super Mario Odyssey (Switch)
         s: $40
         p: $30
         d: Nintendo Switch game. Box and cartridge, like new. We beat it together, super fun!
+        img: mario.JPG
 
       - i: Pokemon Shield (Switch)
         s: $50
         p: $40
         d: Nintendo Switch game. Box and cartridge, like new
+        img: pokemon.JPG
 
       - i: Mario & Sonic at the Olympic Games (Switch)
         s: $45
         p: $25
         d: Nintendo Switch game. Box and cartridge, like new
+        img: sonic.JPG
 
       - i: Overwatch (PS4)
         p: $10
         d: PS4 game. Goes for $20 online
+        img: overwatch.JPG
+
+      - i: STOP Thief!
+        p: $15
+        d: Rare board game where you try to catch an invisible thief, interactive!
+        img: stopthief.JPG
+
+      - i: 7 Wonders Duel
+        p: $12
+        d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
+        img: duel.JPG
 
   - name: Furniture
+    icon: fa-chair
     items:
-      - i: Ikea Chair
-        p: $20
-        d: Great condition, clean
+      - i: Ikea Poang Chair
+        p: $25
+        d: Great condition, clean, universally in everyone's living room. $80 at IKEA
+        img: chair.JPG
 
-      - i: Kneeling Chair
-        p: $60
-        d: Like new, bought for $150
+      - i: DRAGONN Kneeling Chair
+        p: $80
+        d: Save your back with this ergonomic chair. Like new, bought for $150
+        img: kneeling.JPG
+
+      - i: Amazon Fan
+        p: $10
+        d: New condition, bought for $25
+        img: fan.JPG
 
   - name: Books
+    icon: fa-books
     items:
       - i: Watchmen
         s: $25
-        p: $10
+        p: $5
         d: Very popular comic, good condition
+        img: watchmen.JPG
+
+      - i: Chineasy
+        p: $5
+        d: A visual book for learning Chinese characters
+        img: chineasy.JPG
+
+      - i: 100 Hikes in the Bay Area
+        p: $2
+        d: Find your hike!
+        img: hikes.JPG
 
   - name: Outdoors
+    icon: fa-sun-cloud
     items:
+      - i: Arkel Bike Commuter V Pannier
+        p: $90
+        d: Bike bag that hooks onto bike rack. Goes for $180
+        img: arkel.JPG
+
       - i: Garcia Bear Canister
         s: $60
-        p: $20
-        d: Bear canister, originally bought at $80. Indestructible
+        p: $30
+        d: Bear canister, originally bought at $75. Indestructible
+        img: bear.JPG
+
+      - i: Thermarest Z-Sol Lite
+        p: $8
+        d: Ultralight sleeping mat. Goes for $40 new. Used
+        img: zlite.JPG
 
   - name: Other Stuff
+    icon: fa-boxes
     items:
+      - i: All Might Funko Pop!
+        p: $4
+        d: Toy from the popular anime Boku no Hero Academia, comes with stand and box
+        img: allmight.JPG
+
+      - i: Pikachu Waving Funko Pop!
+        p: $7
+        d: PIKA. Goes for $10+ new, comes with stand and box
+        img: pikachu.JPG
+
+      - i: Mario Pirahna Plant Toy
+        p: $3
+        d: Official Mario merch, it ate my dog
+        img: pirahna.JPG
+
+      - i: Timex Weekender with Leather Strap
+        p: $20
+        d: Strap bought for like $50+, Weekender for $20+. Needs a battery
+        img: timex.JPG
+
+      - i: Kalimba
+        p: $90
+        d: Beautiful sounding Kalimba instrument from KalimbaMagic, bought for $160
+        img: kalimba.JPG
+
       - i: Productivity Hourglasses
         p: $10
         d: Beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore
+        img: hourglass.PNG

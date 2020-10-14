@@ -32,7 +32,7 @@
         <ul class="items">
           {% for item in category.items %}
             <li>
-              <div class="img" style="background-image: url(/assets/img/{{ item.img }})" onclick="window.open('https://move.coupling.com/assets/img/{{ item.img }}', '_blank');"></div>
+              <div class="img" style="background-image: url(/assets/img/{{ item.img }})" onclick="window.open('https://move.learncoupling.com/assets/img/{{ item.img }}', '_blank');"></div>
               <div>
                 <p>
                   {{ item.i }} &mdash;

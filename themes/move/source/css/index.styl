@@ -391,16 +391,23 @@ section.footer
   li
     align-items center
     display flex
+    flex-direction column
     justify-content flex-start
-    margin-bottom 30px
+    margin-bottom 50px
     width 100%
-    +media1200()
+    +media768()
+      flex-direction row
+      margin-bottom 30px
       padding 20px
-      width 50%
+  p
+    +media768()
+      text-align left
   div:not(.img)
-    align-items flex-start
+    align-items center
     display flex
     flex-direction column
+    +media768()
+      align-items flex-start
   p
     text-align left
   p:first-child

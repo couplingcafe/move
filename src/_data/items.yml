@@ -48,6 +48,7 @@ categories:
         p: $40
         d: Rarely used. Goes for $79 new
         img: magicmouse.JPG
+        sold: true
 
       - i: Apple Airpods 1
         p: $60
@@ -95,18 +96,21 @@ categories:
         p: $30
         d: Nintendo Switch game. Box and cartridge, like new. We beat it together, super fun!
         img: mario.JPG
+        sold: true
 
       - i: Pokemon Shield (Switch)
         s: $40
         p: $30
         d: Nintendo Switch game. Box and cartridge, like new
         img: pokemon.JPG
+        sold: true
 
       - i: Mario & Sonic at the Olympic Games (Switch)
         s: $45
         p: $20
         d: Nintendo Switch game. Box and cartridge, like new
         img: sonic.JPG
+        sold: true
 
       - i: Overwatch (PS4)
         p: $10

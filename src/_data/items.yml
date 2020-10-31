@@ -7,9 +7,10 @@ categories:
         p: $220
         d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
         img: rift.JPG
+        sold: true
 
       - i: Playstation 4 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
-        p: $200
+        p: $190
         d: It's a PS4! I got a Switch and don't think I'll have time to play it
         img: ps4.jpg
 
@@ -22,6 +23,7 @@ categories:
         p: $5
         d: Excellent condition, has nice fabric shell
         img: echodot.JPG
+        sold: true
 
       - i: Apple Wireless Keyboard
         p: $10
@@ -37,9 +39,10 @@ categories:
         p: $5
         d: Goes for $22 on Amazon.
         img: belkin.JPG
+        sold: true
 
       - i: Audio Technica ATH-50Mx Professional Monitor Headphones
-        p: $80
+        p: $70
         d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
         img: headphones.JPG
 
@@ -51,12 +54,12 @@ categories:
       - i: Logitech MX Master 2S Wireless Mouse
         p: $40
         d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
-        img: logitechmouse.jpg
+        img: logitechmouse.JPG
 
       - i: Logitech Wireless Keyboard with Trackpad
         p: $4
         d: Use this to control your TV! Trackpad and keyboard in one. Goes for $23 on Amazon
-        img: logitechkeyboard.jpg
+        img: logitechkeyboard.JPG
 
       - i: Apple Airpods 1
         p: $50
@@ -87,11 +90,13 @@ categories:
         p: $5 Each
         d: Can be used with Alexa, Apple Home, Google Home. One is TPLink, one is Wowfeel
         img: smartbulbtp.JPG
+        sold: true
 
       - i: Anker Wireless Charger (x2)
         p: $10 Each
         d: Wirelessly charge your devices with the top brand, Anker. Comes with cable and plug
         img: wirelesscharger.JPG
+        sold: true
 
       - i: HTC Vive VR Headset
         p: $100
@@ -246,6 +251,11 @@ categories:
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
 
+      - i: Lampat Desk LED Lamp (USB Ports, Dimmable, Timer)
+        p: $10
+        d: Desk lamp with a bunch of whistles, goes for $26 on Amazon
+        img: lamp.JPG
+
       - i: IKEA MALM Queen Bed Frame
         p: $30
         d: Excellent birch bed frame with slab supports. Goes for $200 new (not incl. slabs)
@@ -269,12 +279,12 @@ categories:
       - i: IKEA Lack Side Table (Blue)
         p: $1
         d: Beautiful blue color lack side table, perfect condition
-        img: lackblue.jpg
+        img: lackblue.JPG
 
       - i: IKEA Lack Side Table (White)
         p: Free
         d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
-        img: lackwhite.jpg
+        img: lackwhite.JPG
 
       - i: IKEA Wavy Standing Mirrors (x2)
         p: $5 for Both

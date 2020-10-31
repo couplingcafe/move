@@ -2,17 +2,97 @@ categories:
   - name: Electronics
     icon: fa-plug
     items:
+      - i: Oculus Rift S VR Headset
+        s: $300
+        p: $240
+        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
+        img: rift.JPG
+
+      - i: Amazon Echo Show with Alexa (1st Gen)
+        p: $40
+        d: Great condition, originally bought at $130.
+        img: echo.JPG
+
+      - i: Amazon Echo Dot with Alexa (3rd Gen)
+        p: $5
+        d: Excellent condition, has nice fabric shell
+        img: echodot.JPG
+
+      - i: Apple Wireless Keyboard
+        p: $20
+        d: Wireless bluetooth keyboard, great condition
+        img: keyboard.JPG
+
+      - i: Amazon Basics Keyboard
+        p: $4
+        d: Wired keyboard with numpad, excellent condition
+        img: amazonkeyboard.JPG
+
+      - i: Belkin 12-Port 8' Power Strip
+        p: $5
+        d: Goes for $22 on Amazon.
+        img: belkin.JPG
+
+      - i: Audio Technica ATH-50Mx Professional Monitor Headphones
+        p: $80
+        d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
+        img: headphones.JPG
+
+      - i: Audio Technica ATH-50Ms Professional Monitor Headphones
+        p: $30
+        d: The same as the M50x but without detachable cable. The top is electrical-taped to layer the fraying
+        img: headphones.JPG
+
+      - i: Logitech MX Master 2S Wireless Mouse
+        p: $40
+        d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
+        img: logitechmouse.jpg
+
+      - i: Logitech Wireless Keyboard with Trackpad
+        p: $4
+        d: Use this to control your TV! Trackpad and keyboard in one. Goes for $23 on Amazon
+        img: logitechkeyboard.jpg
+
+      - i: Apple Airpods 1
+        p: $50
+        d: Great and clean working condition. Goes for $120+ retail
+        img: airpod.JPG
+
+      - i: ASUS 24" VN248H IPS Monitor
+        p: $40
+        d: 1920x1080 HD monitor, no scratches
+        img: asus.JPG
+
+      - i: ASUS VZ249H 23" IPS 1080P Ultra-Thin Monitor
+        p: $50
+        d: Ultra-thin bezel 23" IPS monitor from Asus
+        img: monitor.JPG
+
+      - i: Wired Numpad
+        p: $5
+        d: Need a numpad? Here's a numpad!
+        img: numpad.JPG
+
+      - i: Brother HL-L2340DW Compact Wi-Fi Laser Printer w/ Ink Toner and Paper
+        p: $50
+        d: Works great. 5K reviews on Amazon, bought for $90
+        img: printer.JPG
+
+      - i: Dimmable Multicolor Smart Bulbs (x2)
+        p: $5 Each
+        d: Can be used with Alexa, Apple Home, Google Home. One is TPLink, one is Wowfeel
+        img: smartbulbtp.JPG
+
+      - i: Anker Wireless Charger (x2)
+        p: $10 Each
+        d: Wirelessly charge your devices with the top brand, Anker. Comes with cable and plug
+        img: wirelesscharger.JPG
+
       - i: HTC Vive VR Headset
         p: $100
         d: Comes with headset, sport band, controllers, Knuckles, base stations, cables
         img: vive.JPG
         sold: true
-
-      - i: Oculus Rift S VR Headset
-        s: $300
-        p: $220
-        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
-        img: rift.JPG
 
       - i: Razer Blade 2016 GTX1060 Gaming Laptop
         p: $400
@@ -26,11 +106,6 @@ categories:
         img: iphone.JPG
         sold: true
 
-      - i: Amazon Echo Show
-        p: $40
-        d: Good condition, originally bought at $130
-        img: echo.JPG
-
       - i: Amazon Fire Stick 1080P
         p: $5
         d: New, sealed in box
@@ -42,6 +117,7 @@ categories:
         p: $100
         d: Great condition, originally bought at $200
         img: appletv.JPG
+        sold: true
 
       - i: Apple Magic Mouse 2
         s: $60
@@ -49,21 +125,6 @@ categories:
         d: Rarely used. Goes for $79 new
         img: magicmouse.JPG
         sold: true
-
-      - i: Apple Airpods 1
-        p: $60
-        d: Great and clean working condition. Goes for $120+ retail
-        img: airpod.JPG
-
-      - i: 2013 Macbook 13" 256GB Retina
-        p: $250
-        d: Great cosmetic condition. Missing rubber feet underneath. Touchpad physical clicks often don't register
-        img: macbook.JPG
-
-      - i: ASUS 24" VN248H IPS Monitor
-        p: $40
-        d: 1920x1080 HD monitor, no scratches
-        img: asus.JPG
 
       - i: USB C Dongle
         p: $5
@@ -77,20 +138,69 @@ categories:
         img: fire.JPG
         sold: true
 
-      - i: Apple Wireless Keyboard
-        p: $20
-        d: Wireless bluetooth keyboard, great condition
-        img: keyboard.JPG
-
       - i: Samsung Keyboard
         p: $10
         d: Samsung wireless keyboard, great condition
         img: samsungkeyboard.JPG
         sold: true
 
+  - name: Appliances
+    icon: fa-microwave
+    items:
+      - i: PARTU Air Filter + Extra Filter
+        p: $30
+        d: Be ready for next wildfires and breathe clean air. Like new condition, bought for $50
+        img: filter.JPG
+
+      - i: Panasonic NN-SN65KB 1200W Microwave
+        p: $69
+        d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
+        img: microwave.JPG
+
+      - i: Technivorm Moccamaster 79312 Coffee Brewer
+        p: $180
+        d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
+        img: mochamaster.JPG
+
+      - i: Insignia Pressure Cooker
+        p: $15
+        d: Cook faster, make food tender. Works perfectly. The exact same thing as an Instapot
+        img: pressure.JPG
+
+      - i: AmazonBasics Toaster
+        p: $10
+        d: Bought recently. Has two slots for bread or bagel. Goes for $23 on Amazon
+        img: toaster.JPG
+
   - name: Games
     icon: fa-gamepad
     items:
+      - i: Mysterium
+        p: $20
+        d: Board game where one player is a ghost that tries to tell other players how they were murdered. Goes for $35 on Amazon
+        img: mysterium.JPG
+
+      - i: Overwatch (PS4)
+        p: $5
+        d: PS4 game. Goes for $20 online
+        img: overwatch.JPG
+
+      - i: STOP Thief!
+        s: $15
+        p: $10
+        d: Rare board game where you try to catch an invisible thief, interactive!
+        img: stopthief.JPG
+
+      - i: UNLOCK by Space Cowboys
+        p: $5
+        d: Three escape rooms in a box. Card-based
+        img: unlock.JPG
+
+      - i: 7 Wonders Duel
+        p: $10
+        d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
+        img: duel.JPG
+
       - i: Super Mario Odyssey (Switch)
         s: $40
         p: $30
@@ -112,35 +222,75 @@ categories:
         img: sonic.JPG
         sold: true
 
-      - i: Overwatch (PS4)
-        p: $10
-        d: PS4 game. Goes for $20 online
-        img: overwatch.JPG
-
-      - i: STOP Thief!
-        s: $15
-        p: $10
-        d: Rare board game where you try to catch an invisible thief, interactive!
-        img: stopthief.JPG
-
-      - i: 7 Wonders Duel
-        s: $12
-        p: $10
-        d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
-        img: duel.JPG
-
   - name: Furniture
     icon: fa-chair
     items:
-      - i: Ikea Poang Chair
-        p: $25
+      - i: IKEA Poang Chair
+        s: $30
+        p: $20
         d: Great condition, clean, universally in everyone's living room. $80 at IKEA
         img: chair.JPG
+
+      - i: Blackout Curtains (x3)
+        p: $5 each
+        d: Get better sleep! Three blackout curtains. Two are 42"x84", one is 24"x84"
+        img: blackoutcurtains.JPG
+
+      - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
+        p: Free with any purchase! Or $10
+        d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
+        img: couch.JPG
+
+      - i: IKEA MALM Queen Bed Frame
+        p: $30
+        d: Excellent birch bed frame with slab supports. Goes for $200 new (not incl. slabs)
+        img: ikeaframe.jpg
+
+      - i: Birch Desk
+        p: Free with any purchase! Or $5
+        d: It has two drawers, an inner shelf, and cable management
+        img: desk.JPG
+
+      - i: Ikea MALM Dresser
+        p: Free with any purchase! Or $5
+        d: Great wooden IKEA Malm dresser, preassembled
+        img: dresser.JPG
+
+      - i: Acoustic Foam Sound Absorb Panels (x11)
+        p: $1 each
+        d: SF apartments can be noisy! Reduce the echo in your room and absorb sound
+        img: foam.JPG
+
+      - i: IKEA Lack Side Table (Blue)
+        p: $1
+        d: Beautiful blue color lack side table, perfect condition
+        img: lackblue.jpg
+
+      - i: IKEA Lack Side Table (White)
+        p: Free
+        d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
+        img: lackwhite.jpg
+
+      - i: IKEA Wavy Standing Mirrors (x2)
+        p: $5 for Both
+        d: Cool wavy mirrors, make your room look bigger!
+        img: mirror.JPG
+
+      - i: Rolly Table
+        p: $5
+        d: Beautiful multi-shelf table counter with wheels
+        img: rolltable.JPG
+
+      - i: Proctor Silex Body Weight Scale
+        p: $5
+        d: Weigh yourself. Bought for $22 on Amazon
+        img: scale.JPG
 
       - i: DRAGONN Kneeling Chair
         p: $80
         d: Save your back with this ergonomic chair. Like new, bought for $150
         img: kneeling.JPG
+        sold: true
 
       - i: Amazon Fan
         p: $10
@@ -152,9 +302,9 @@ categories:
     icon: fa-books
     items:
       - i: Watchmen
-        s: $25
+        s: $20
         p: $5
-        d: Very popular comic, good condition
+        d: Very popular comic, excellent condition
         img: watchmen.JPG
 
       - i: Chineasy
@@ -164,7 +314,7 @@ categories:
         sold: true
 
       - i: 100 Hikes in the Bay Area
-        p: $2
+        p: $1
         d: Find your hike!
         img: hikes.JPG
 
@@ -172,33 +322,33 @@ categories:
     icon: fa-sun-cloud
     items:
       - i: Arkel Bike Commuter V Pannier
-        p: $90
-        d: Bike bag that hooks onto bike rack. Goes for $180
+        p: $80
+        d: Bike bag that hooks onto bike rack. Bought for $180
         img: arkel.JPG
 
       - i: Garcia Bear Canister
         s: $60
-        p: $30
+        p: $40
         d: Bear canister, originally bought at $75. Indestructible
         img: bear.JPG
 
       - i: Thermarest Z-Sol Lite
-        p: $8
+        p: $10
         d: Ultralight sleeping mat. Goes for $40 new. Used
         img: zlite.JPG
 
   - name: Other Stuff
     icon: fa-boxes
     items:
+      - i: Sandusky Folding Shopping Cart
+        p: $10
+        d: Walk instead of drive for groceries, protect Earth! 66lbs capacity. Bought for $25, works great
+        img: cart.JPG
+
       - i: All Might Funko Pop!
         p: $4
         d: Toy from the popular anime Boku no Hero Academia, comes with stand and box
         img: allmight.JPG
-
-      - i: Pikachu Waving Funko Pop!
-        p: $7
-        d: PIKA. Goes for $10+ new, comes with stand and box
-        img: pikachu.JPG
 
       - i: Timex Weekender with Leather Strap
         p: $20
@@ -206,11 +356,27 @@ categories:
         img: timex.JPG
 
       - i: Kalimba
-        p: $90
+        p: $80
         d: Beautiful sounding Kalimba instrument from KalimbaMagic, bought for $160
         img: kalimba.JPG
 
+      - i: Long Foam Back Roller
+        p: $5
+        d: Foam roller for the back
+        img: foamback.JPG
+
+      - i: Giro Bike Helmet with MIPS
+        p: $40
+        d: Best-in-class bike helmet with concussion protection
+        img: giro.JPG
+
       - i: Productivity Hourglasses
         p: $10
-        d: Beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore
-        img: hourglass.PNG
+        d: Two beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore
+        img: hourglass.JPG
+
+      - i: Pikachu Waving Funko Pop!
+        p: $7
+        d: PIKA. Goes for $10+ new, comes with stand and box
+        img: pikachu.JPG
+        sold: true

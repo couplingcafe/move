@@ -2,48 +2,18 @@ categories:
   - name: Electronics
     icon: fa-plug
     items:
-      - i: Oculus Rift S VR Headset
-        s: $300
-        p: $220
-        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
-        img: rift.JPG
-        sold: true
-
       - i: Playstation 4 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
         p: $190
         d: It's a PS4! I got a Switch and don't think I'll have time to play it
         img: ps4.jpg
 
       - i: Amazon Echo Show with Alexa (1st Gen)
-        p: $40
+        p: $30
         d: Great condition, originally bought at $130.
         img: echo.JPG
 
-      - i: Amazon Echo Dot with Alexa (3rd Gen)
-        p: $5
-        d: Excellent condition, has nice fabric shell
-        img: echodot.JPG
-        sold: true
-
-      - i: Apple Wireless Keyboard
-        p: $10
-        d: Wireless bluetooth keyboard, great condition
-        img: keyboard.JPG
-        sold: true
-
-      - i: Amazon Basics Keyboard
-        p: $4
-        d: Wired keyboard with numpad, excellent condition
-        img: amazonkeyboard.JPG
-
-      - i: Belkin 12-Port 8' Power Strip
-        p: $5
-        d: Goes for $22 on Amazon.
-        img: belkin.JPG
-        sold: true
-
       - i: Audio Technica ATH-50Mx Professional Monitor Headphones
-        p: $70
+        p: $60
         d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
         img: headphones.JPG
 
@@ -86,6 +56,36 @@ categories:
         p: $50
         d: Works great. 5K reviews on Amazon, bought for $90
         img: printer.JPG
+
+      - i: Amazon Basics Keyboard
+        p: $4
+        d: Wired keyboard with numpad, excellent condition
+        img: amazonkeyboard.JPG
+
+      - i: Oculus Rift S VR Headset
+        s: $300
+        p: $220
+        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
+        img: rift.JPG
+        sold: true
+
+      - i: Amazon Echo Dot with Alexa (3rd Gen)
+        p: $5
+        d: Excellent condition, has nice fabric shell
+        img: echodot.JPG
+        sold: true
+
+      - i: Apple Wireless Keyboard
+        p: $10
+        d: Wireless bluetooth keyboard, great condition
+        img: keyboard.JPG
+        sold: true
+
+      - i: Belkin 12-Port 8' Power Strip
+        p: $5
+        d: Goes for $22 on Amazon.
+        img: belkin.JPG
+        sold: true
 
       - i: Dimmable Multicolor Smart Bulbs (x2)
         p: $5 Each
@@ -158,21 +158,27 @@ categories:
   - name: Appliances
     icon: fa-microwave
     items:
+      - i: Panasonic NN-SN65KB 1200W Microwave
+        s: $69
+        p: $50
+        d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
+        img: microwave.JPG
+
+      - i: AmazonBasics Toaster
+        p: $10
+        d: Bought recently. Has two slots for bread or bagel. Goes for $23 on Amazon
+        img: toaster.JPG
+
+      - i: Technivorm Moccamaster 79312 Coffee Brewer
+        p: $175
+        d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
+        img: mochamaster.JPG
+
       - i: PARTU Air Filter + Extra Filter
         p: $30
         d: Be ready for next wildfires and breathe clean air. Like new condition, bought for $50
         img: filter.JPG
         sold: true
-
-      - i: Panasonic NN-SN65KB 1200W Microwave
-        p: $69
-        d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
-        img: microwave.JPG
-
-      - i: Technivorm Moccamaster 79312 Coffee Brewer
-        p: $180
-        d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
-        img: mochamaster.JPG
 
       - i: Insignia Pressure Cooker
         p: $15
@@ -180,19 +186,9 @@ categories:
         img: pressure.JPG
         sold: true
 
-      - i: AmazonBasics Toaster
-        p: $10
-        d: Bought recently. Has two slots for bread or bagel. Goes for $23 on Amazon
-        img: toaster.JPG
-
   - name: Games
     icon: fa-gamepad
     items:
-      - i: Mysterium
-        p: $20
-        d: Board game where one player is a ghost that tries to tell other players how they were murdered. Goes for $35 on Amazon
-        img: mysterium.JPG
-
       - i: Overwatch (PS4)
         p: $5
         d: PS4 game. Goes for $20 online
@@ -213,6 +209,12 @@ categories:
         p: $10
         d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
         img: duel.JPG
+
+      - i: Mysterium
+        p: $20
+        d: Board game where one player is a ghost that tries to tell other players how they were murdered. Goes for $35 on Amazon
+        img: mysterium.JPG
+        sold: true
 
       - i: Super Mario Odyssey (Switch)
         s: $40
@@ -244,12 +246,6 @@ categories:
         d: Great condition, clean, universally in everyone's living room. $80 at IKEA
         img: chair.JPG
 
-      - i: Blackout Curtains (x3)
-        p: $5 each
-        d: Get better sleep! Three blackout curtains. Two are 42"x84", one is 24"x84"
-        img: blackoutcurtains.JPG
-        sold: true
-
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
         p: Free with any purchase! Or $10
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
@@ -280,18 +276,13 @@ categories:
         d: SF apartments can be noisy! Reduce the echo in your room and absorb sound
         img: foam.JPG
 
-      - i: IKEA Lack Side Table (Blue)
-        p: $1
-        d: Beautiful blue color lack side table, perfect condition
-        img: lackblue.JPG
-
       - i: IKEA Lack Side Table (White)
         p: Free
         d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
         img: lackwhite.JPG
 
-      - i: IKEA Wavy Standing Mirrors (x2)
-        p: $5 for Both
+      - i: IKEA Wavy Standing Mirrors
+        p: $5
         d: Cool wavy mirrors, make your room look bigger!
         img: mirror.JPG
 
@@ -299,6 +290,18 @@ categories:
         p: $5
         d: Beautiful multi-shelf table counter with wheels
         img: rolltable.JPG
+
+      - i: Blackout Curtains (x3)
+        p: $5 each
+        d: Get better sleep! Three blackout curtains. Two are 42"x84", one is 24"x84"
+        img: blackoutcurtains.JPG
+        sold: true
+
+      - i: IKEA Lack Side Table (Blue)
+        p: $1
+        d: Beautiful blue color lack side table, perfect condition
+        img: lackblue.JPG
+        sold: true
 
       - i: Proctor Silex Body Weight Scale
         p: $5
@@ -326,6 +329,7 @@ categories:
         p: $5
         d: Very popular comic, excellent condition
         img: watchmen.JPG
+        sold: true
 
       - i: Chineasy
         p: $5
@@ -337,21 +341,22 @@ categories:
         p: $1
         d: Find your hike!
         img: hikes.JPG
+        sold: true
 
   - name: Outdoors
     icon: fa-sun-cloud
     items:
-      - i: Arkel Bike Commuter V Pannier
-        p: $80
-        d: Bike bag that hooks onto bike rack. Bought for $180
-        img: arkel.JPG
-        sold: true
-
       - i: Garcia Bear Canister
         s: $60
         p: $40
         d: Bear canister, originally bought at $75. Indestructible
         img: bear.JPG
+
+      - i: Arkel Bike Commuter V Pannier
+        p: $80
+        d: Bike bag that hooks onto bike rack. Bought for $180
+        img: arkel.JPG
+        sold: true
 
       - i: Thermarest Z-Sol Lite
         p: $10
@@ -382,6 +387,11 @@ categories:
         d: Beautiful sounding Kalimba instrument from KalimbaMagic, bought for $160
         img: kalimba.JPG
 
+      - i: Productivity Hourglasses
+        p: $10
+        d: Two beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore
+        img: hourglass.JPG
+
       - i: Long Foam Back Roller
         p: $5
         d: Foam roller for the back
@@ -392,11 +402,7 @@ categories:
         p: $40
         d: Best-in-class bike helmet with concussion protection
         img: giro.JPG
-
-      - i: Productivity Hourglasses
-        p: $10
-        d: Two beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore
-        img: hourglass.JPG
+        sold: true
 
       - i: Pikachu Waving Funko Pop!
         p: $7

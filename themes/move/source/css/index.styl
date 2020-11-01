@@ -400,6 +400,7 @@ section.footer
       margin-bottom 30px
       padding 20px
     &[data-sold] .title
+      color #999
       text-decoration line-through
   p
     +media768()
@@ -439,6 +440,9 @@ section.category:nth-child(7)
   sectionYellow()
 section.category:nth-child(8)
   sectionPurple()
+
+[data-sold] .img
+  filter brightness(1.25) saturate(0) contrast(1.2)
 
 .img
   background-size cover

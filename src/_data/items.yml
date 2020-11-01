@@ -29,6 +29,7 @@ categories:
         p: $10
         d: Wireless bluetooth keyboard, great condition
         img: keyboard.JPG
+        sold: true
 
       - i: Amazon Basics Keyboard
         p: $4
@@ -161,6 +162,7 @@ categories:
         p: $30
         d: Be ready for next wildfires and breathe clean air. Like new condition, bought for $50
         img: filter.JPG
+        sold: true
 
       - i: Panasonic NN-SN65KB 1200W Microwave
         p: $69
@@ -176,6 +178,7 @@ categories:
         p: $15
         d: Cook faster, make food tender. Works perfectly. The exact same thing as an Instapot
         img: pressure.JPG
+        sold: true
 
       - i: AmazonBasics Toaster
         p: $10
@@ -245,6 +248,7 @@ categories:
         p: $5 each
         d: Get better sleep! Three blackout curtains. Two are 42"x84", one is 24"x84"
         img: blackoutcurtains.JPG
+        sold: true
 
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
         p: Free with any purchase! Or $10
@@ -300,6 +304,7 @@ categories:
         p: $5
         d: Weigh yourself. Bought for $22 on Amazon
         img: scale.JPG
+        sold: true
 
       - i: DRAGONN Kneeling Chair
         p: $80
@@ -340,6 +345,7 @@ categories:
         p: $80
         d: Bike bag that hooks onto bike rack. Bought for $180
         img: arkel.JPG
+        sold: true
 
       - i: Garcia Bear Canister
         s: $60
@@ -351,6 +357,7 @@ categories:
         p: $10
         d: Ultralight sleeping mat. Goes for $40 new. Used
         img: zlite.JPG
+        sold: true
 
   - name: Other Stuff
     icon: fa-boxes
@@ -379,6 +386,7 @@ categories:
         p: $5
         d: Foam roller for the back
         img: foamback.JPG
+        sold: true
 
       - i: Giro Bike Helmet with MIPS
         p: $40

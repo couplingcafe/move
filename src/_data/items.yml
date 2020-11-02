@@ -3,7 +3,8 @@ categories:
     icon: fa-plug
     items:
       - i: Playstation 4 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
-        p: $190
+        s: $190
+        p: $180
         d: It's a PS4! I got a Switch and don't think I'll have time to play it
         img: ps4.jpg
 
@@ -12,18 +13,14 @@ categories:
         d: Great condition, originally bought at $130.
         img: echo.JPG
 
-      - i: Audio Technica ATH-50Mx Professional Monitor Headphones
-        p: $60
-        d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
-        img: headphones.JPG
-
       - i: Audio Technica ATH-50Ms Professional Monitor Headphones
         p: $30
         d: The same as the M50x but without detachable cable. The top is electrical-taped to layer the fraying
         img: headphones.JPG
 
       - i: Logitech MX Master 2S Wireless Mouse
-        p: $40
+        s: $40
+        p: $35
         d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
         img: logitechmouse.JPG
 
@@ -42,25 +39,33 @@ categories:
         d: 1920x1080 HD monitor, no scratches
         img: asus.JPG
 
-      - i: ASUS VZ249H 23" IPS 1080P Ultra-Thin Monitor
-        p: $50
-        d: Ultra-thin bezel 23" IPS monitor from Asus
-        img: monitor.JPG
-
       - i: Wired Numpad
         p: $5
         d: Need a numpad? Here's a numpad!
         img: numpad.JPG
 
       - i: Brother HL-L2340DW Compact Wi-Fi Laser Printer w/ Ink Toner and Paper
-        p: $50
+        s: $50
+        p: $45
         d: Works great. 5K reviews on Amazon, bought for $90
         img: printer.JPG
 
       - i: Amazon Basics Keyboard
-        p: $4
+        p: $3
         d: Wired keyboard with numpad, excellent condition
         img: amazonkeyboard.JPG
+
+      - i: Audio Technica ATH-50Mx Professional Monitor Headphones
+        p: $60
+        d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
+        img: headphones.JPG
+        sold: true
+
+      - i: ASUS VZ249H 23" IPS 1080P Ultra-Thin Monitor
+        p: $50
+        d: Ultra-thin bezel 23" IPS monitor from Asus
+        img: monitor.JPG
+        sold: true
 
       - i: Oculus Rift S VR Headset
         s: $300
@@ -240,21 +245,10 @@ categories:
   - name: Furniture
     icon: fa-chair
     items:
-      - i: IKEA Poang Chair
-        s: $30
-        p: $20
-        d: Great condition, clean, universally in everyone's living room. $80 at IKEA
-        img: chair.JPG
-
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
         p: Free with any purchase! Or $10
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
-
-      - i: Lampat Desk LED Lamp (USB Ports, Dimmable, Timer)
-        p: $10
-        d: Desk lamp with a bunch of whistles, goes for $26 on Amazon
-        img: lamp.JPG
 
       - i: IKEA MALM Queen Bed Frame
         p: $30
@@ -281,15 +275,28 @@ categories:
         d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
         img: lackwhite.JPG
 
-      - i: IKEA Wavy Standing Mirrors
+      - i: IKEA Wavy Standing Mirror
         p: $5
-        d: Cool wavy mirrors, make your room look bigger!
+        d: Cool wavy mirror, make your room look bigger!
         img: mirror.JPG
 
       - i: Rolly Table
         p: $5
         d: Beautiful multi-shelf table counter with wheels
         img: rolltable.JPG
+
+      - i: IKEA Poang Chair
+        s: $30
+        p: $20
+        d: Great condition, clean, universally in everyone's living room. $80 at IKEA
+        img: chair.JPG
+        sold: true
+
+      - i: Lampat Desk LED Lamp (USB Ports, Dimmable, Timer)
+        p: $10
+        d: Desk lamp with a bunch of whistles, goes for $26 on Amazon
+        img: lamp.JPG
+        sold: true
 
       - i: Blackout Curtains (x3)
         p: $5 each
@@ -387,10 +394,21 @@ categories:
         d: Beautiful sounding Kalimba instrument from KalimbaMagic, bought for $160
         img: kalimba.JPG
 
+      - i: Large Throwable Crab Net with Trap
+        p: $15
+        d: I fished this out of the Bay from in front of Golden Gate Bridge
+        img: crab.jpg
+
+      - i: Rare 2011 Supreme x North Face Sleeping Bag
+        p: $749
+        d: Black + White. Sellers on eBay for $999, will appreciate in value. Email for more details!
+        img: supreme.JPG
+
       - i: Productivity Hourglasses
         p: $10
         d: Two beautiful hourglasses for staying focused, originally bought at $30. I'm so laser focused now, I don't need 'em anymore
         img: hourglass.JPG
+        sold: true
 
       - i: Long Foam Back Roller
         p: $5

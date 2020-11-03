@@ -8,6 +8,11 @@ categories:
         d: It's a PS4! I got a Switch and don't think I'll have time to play it
         img: ps4.jpg
 
+      - i: Logitech Webcam 1080P C920 with Dual Mic
+        p: $80
+        d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now
+        img: webcam.JPG
+
       - i: Amazon Echo Show with Alexa (1st Gen)
         p: $30
         d: Great condition, originally bought at $130.
@@ -175,7 +180,8 @@ categories:
         img: toaster.JPG
 
       - i: Technivorm Moccamaster 79312 Coffee Brewer
-        p: $175
+        s: $175
+        p: $160
         d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
         img: mochamaster.JPG
 
@@ -194,6 +200,11 @@ categories:
   - name: Games
     icon: fa-gamepad
     items:
+      - i: Legend of Zelda - Ocarina of Time (3DS)
+        p: $10
+        d: Classic game for 3DS. Comes with box and cartridge
+        img: ocarina.JPG
+
       - i: Overwatch (PS4)
         p: $5
         d: PS4 game. Goes for $20 online
@@ -246,7 +257,7 @@ categories:
     icon: fa-chair
     items:
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
-        p: Free with any purchase! Or $10
+        p: Free
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
 
@@ -256,12 +267,12 @@ categories:
         img: ikeaframe.jpg
 
       - i: Birch Desk
-        p: Free with any purchase! Or $5
+        p: Free
         d: It has two drawers, an inner shelf, and cable management
         img: desk.JPG
 
       - i: Ikea MALM Dresser
-        p: Free with any purchase! Or $5
+        p: Free
         d: Great wooden IKEA Malm dresser, preassembled
         img: dresser.JPG
 

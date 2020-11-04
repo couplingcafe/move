@@ -13,11 +13,6 @@ categories:
         d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now
         img: webcam.JPG
 
-      - i: Amazon Echo Show with Alexa (1st Gen)
-        p: $30
-        d: Great condition, originally bought at $130.
-        img: echo.JPG
-
       - i: Audio Technica ATH-50Ms Professional Monitor Headphones
         p: $30
         d: The same as the M50x but without detachable cable. The top is electrical-taped to layer the fraying
@@ -266,18 +261,14 @@ categories:
         d: Excellent birch bed frame with slab supports. Goes for $200 new (not incl. slabs)
         img: ikeaframe.jpg
 
-      - i: Birch Desk
-        p: Free
-        d: It has two drawers, an inner shelf, and cable management
-        img: desk.JPG
-
       - i: Ikea MALM Dresser
         p: Free
         d: Great wooden IKEA Malm dresser, preassembled
         img: dresser.JPG
 
       - i: Acoustic Foam Sound Absorb Panels (x11)
-        p: $1 each
+        s: $1 each
+        p: $0.50 each
         d: SF apartments can be noisy! Reduce the echo in your room and absorb sound
         img: foam.JPG
 
@@ -295,6 +286,12 @@ categories:
         p: $5
         d: Beautiful multi-shelf table counter with wheels
         img: rolltable.JPG
+
+      - i: Birch Desk
+        p: Free
+        d: It has two drawers, an inner shelf, and cable management
+        img: desk.JPG
+        sold: true
 
       - i: IKEA Poang Chair
         s: $30
@@ -364,11 +361,22 @@ categories:
   - name: Outdoors
     icon: fa-sun-cloud
     items:
+      - i: TETON 80"x33" Brown / Pink Flannel-Lined 0F Sleeping Bag
+        p: $30
+        d: Rated 0F, but maybe better at 30F. Bought for $70, used couple times, only once outside
+        img: teton.JPG
+
+      - i: Marmot 45F Nanowave Lightweight Sleeping Bag
+        p: $30
+        d: Olive green sleeping bag, used several times by my wife
+        img: marmot.JPG
+
       - i: Garcia Bear Canister
         s: $60
         p: $40
         d: Bear canister, originally bought at $75. Indestructible
         img: bear.JPG
+        sold: true
 
       - i: Arkel Bike Commuter V Pannier
         p: $80
@@ -407,7 +415,7 @@ categories:
 
       - i: Large Throwable Crab Net with Trap
         p: $15
-        d: I fished this out of the Bay from in front of Golden Gate Bridge
+        d: Catch crabs on the pier!
         img: crab.jpg
 
       - i: Rare 2011 Supreme x North Face Sleeping Bag

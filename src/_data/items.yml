@@ -12,6 +12,11 @@ categories:
         d: Alexa-controlled Echo Dot 
         img: echo1.JPG
 
+      - i: Google Home 
+        p: $5
+        d: It's a Google Home 
+        img: googlehome.JPG
+
       - i: Logitech Webcam 1080P C920 with Dual Mic
         p: $80
         d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now

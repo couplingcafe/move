@@ -2,11 +2,15 @@ categories:
   - name: Electronics
     icon: fa-plug
     items:
-      - i: Playstation 4 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
-        s: $190
-        p: $180
-        d: It's a PS4! I got a Switch and don't think I'll have time to play it
-        img: ps4.jpg
+      - i: iPad 2 16GB
+        p: $50
+        d: The 2nd generation iPad, excellent condition
+        img: ipad.JPG
+
+      - i: Amazon Echo Dot 1st Gen 
+        p: $2
+        d: Alexa-controlled Echo Dot 
+        img: echo1.JPG
 
       - i: Logitech Webcam 1080P C920 with Dual Mic
         p: $80
@@ -18,11 +22,66 @@ categories:
         d: The same as the M50x but without detachable cable. The top is electrical-taped to layer the fraying
         img: headphones.JPG
 
+      - i: Zhiyun Smooth-Q 3-Axis Gimbal Stabilizer for Smartphone 
+        p: $40
+        d: Record buttery smooth video 
+        img: gimbal.JPG
+
+      - i: Key Finder 
+        p: Free 
+        d: Attach to your keys to find when you lose it 
+        img: keyfinder.JPG
+
+      - i: NVIDIA GeForce GTX1080 8GB EVGA 
+        p: $295
+        d: Super powerful graphics card. Max out games or mine some Bitcoin, VR ready
+        img: 1080.JPG
+
+      - i: NVIDIA GeForce GTX1060 6GB PNY 
+        p: $150
+        d: Powerful graphics card. Play games on high settings, VR ready 
+        img: 1060.JPG
+
+      - i: ASRock Z77 Extreme3 Intel Motherboard 
+        p: $110
+        d: Motherboard for gaming PC 
+        img: asrock.JPG
+
+      - i: EVGA 600B Power Supply 
+        p: $50
+        d: Power supply, 600W, good for gaming PC
+        img: powersupply.JPG
+
+      - i: Ripjaw 4GB x 2 RAM Sticks
+        p: $15
+        d: 8GB of RAM for a PC 
+        img: ram.JPG
+
+      - i: AMD Radeon XFX Double-D 1GB GDDR5 HD6870 
+        p: $40
+        d: Bought this graphics card in 2012, should play games at medium 
+        img: radeon.JPG
+
       - i: Logitech MX Master 2S Wireless Mouse
         s: $40
         p: $35
         d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
         img: logitechmouse.JPG
+
+      - i: Intel i5-3570K 3.4GHZ Quadcore CPU
+        p: $35
+        d: A used fast quad-core CPU from Intel
+        img: i3570k.JPG
+
+      - i: Intel i7-7700K 4.2GHZ Quadcore CPU
+        p: $230
+        d: An i7 Intel CPU 
+        img: i7700k.JPG
+
+      - i: Coolermaster Storm PC Case 
+        p: $5
+        d: Gaming PC case with LEDs and fans and cables
+        img: cmstorm.JPG
 
       - i: Logitech Wireless Keyboard with Trackpad
         p: $4
@@ -31,7 +90,7 @@ categories:
 
       - i: Apple Airpods 1
         p: $50
-        d: Great and clean working condition. Goes for $120+ retail
+        d: Great and clean working condition. Goes for $100 retail
         img: airpod.JPG
 
       - i: ASUS 24" VN248H IPS Monitor
@@ -40,13 +99,12 @@ categories:
         img: asus.JPG
 
       - i: Wired Numpad
-        p: $5
+        p: $2
         d: Need a numpad? Here's a numpad!
         img: numpad.JPG
 
       - i: Brother HL-L2340DW Compact Wi-Fi Laser Printer w/ Ink Toner and Paper
-        s: $50
-        p: $45
+        p: $50
         d: Works great. 5K reviews on Amazon, bought for $90
         img: printer.JPG
 
@@ -165,12 +223,12 @@ categories:
     items:
       - i: Panasonic NN-SN65KB 1200W Microwave
         s: $69
-        p: $50
+        p: $45
         d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
         img: microwave.JPG
 
       - i: AmazonBasics Toaster
-        p: $10
+        p: $8
         d: Bought recently. Has two slots for bread or bagel. Goes for $23 on Amazon
         img: toaster.JPG
 
@@ -195,10 +253,50 @@ categories:
   - name: Games
     icon: fa-gamepad
     items:
+      - i: Dominion 1st Edition Base Set 
+        p: $15
+        d: My favorite board / card game. I have 5 expansions and I upgraded to 2nd edition so I don't need this anymore. 
+        img: dominion.JPG
+
+      - i: Playstation 4 Slim 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
+        p: $200
+        d: It's a PS4! I got a Switch and don't think I'll have time to play it
+        img: ps4.jpg
+
+      - i: Nintendo 2DS Red + Charger
+        p: $40
+        d: Play Nintendo 3DS games! 
+        img: 3dsred.jpg
+
+      - i: Nintendo 2DS Blue + Case + Charger
+        p: $40
+        d: Play Nintendo 3DS games! 
+        img: 3dsblue.jpg
+
+      - i: Kirby Superstar (3DS)
+        p: $10
+        d: Kirby for Nintendo 3DS! 
+        img: kirby.JPG
+
+      - i: Pokemon Black (3DS)
+        p: $10
+        d: Pokemon Black for Nintendo 3DS 
+        img: blackwhite.JPG
+
+      - i: Pokemon White (3DS)
+        p: $10
+        d: Pokemon White for Nintendo 3DS 
+        img: blackwhite.JPG
+
+      - i: Pokemon Sun & Moon with Exclusive Steelbook (3DS)
+        p: $70
+        d: Pokemon Sun & Moon cartridges with collector's steelbook 
+        img: sunmoon.JPG
+
       - i: Legend of Zelda - Ocarina of Time (3DS)
         p: $10
         d: Classic game for 3DS. Comes with box and cartridge
-        img: ocarina.JPG
+        img: zelda.JPG
 
       - i: Overwatch (PS4)
         p: $5
@@ -221,11 +319,11 @@ categories:
         d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
         img: duel.JPG
 
-      - i: Mysterium
-        p: $20
-        d: Board game where one player is a ghost that tries to tell other players how they were murdered. Goes for $35 on Amazon
-        img: mysterium.JPG
-        sold: true
+      - i: Metal Gear Solid HD Collection (PS3) 
+        p: $10
+        d: MGS for PS3 
+        img: mgs.jpg
+
 
       - i: Super Mario Odyssey (Switch)
         s: $40
@@ -251,10 +349,20 @@ categories:
   - name: Furniture
     icon: fa-chair
     items:
+      - i: IKEA Kallax Shelf Unit 
+        p: $15 
+        d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies 
+        img: center.JPG
+
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
-        p: Free
+        p: $10 
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
+
+      - i: Nightstand
+        p: Free 
+        d: Rustic looking nightstand
+        img: nightstand.JPG
 
       - i: IKEA MALM Queen Bed Frame
         p: $30
@@ -262,30 +370,55 @@ categories:
         img: ikeaframe.jpg
 
       - i: Ikea MALM Dresser
-        p: Free
+        p: $5 
         d: Great wooden IKEA Malm dresser, preassembled
         img: dresser.JPG
 
-      - i: Acoustic Foam Sound Absorb Panels (x11)
+      - i: Acoustic Foam Sound Absorb Panels (x10)
         s: $1 each
         p: $0.50 each
         d: SF apartments can be noisy! Reduce the echo in your room and absorb sound
         img: foam.JPG
 
+      - i: Emerson Self-Setting Radio Alarm Clock 
+        p: $1
+        d: Sets itself via satellites or something 
+        img: clock.JPG
+
       - i: IKEA Lack Side Table (White)
-        p: Free
+        p: Free 
         d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
         img: lackwhite.JPG
 
       - i: IKEA Wavy Standing Mirror
-        p: $5
+        p: $4
         d: Cool wavy mirror, make your room look bigger!
         img: mirror.JPG
+
+      - i: Multicolored Checkered Hallway Rug (2' x 7')
+        p: $4
+        d: Colorful hallway runner rug. Bought for $20
+        img: runner.JPG
+
+      - i: Multicolored Stripes Printed Rug (5' x 8') 
+        p: $10
+        d: Colorful large rug! Very clean. Bought for $40
+        img: ruglarge.JPG
+
+      - i: Gray Rug (3'3 x 4'7)
+        p: $5
+        d: Cozy shag collection solid gray rug, polyproylene, clean. Bought for $25
+        img: rugshag.JPG
 
       - i: Rolly Table
         p: $5
         d: Beautiful multi-shelf table counter with wheels
         img: rolltable.JPG
+
+      - i: Brown Chair Mat 
+        p: $5 
+        d: Protect your floors or carpet with a 3' x 4' textured chair mat 
+        img: mat.JPG
 
       - i: Birch Desk
         p: Free
@@ -339,6 +472,21 @@ categories:
   - name: Books
     icon: fa-books
     items:
+      - i: The VR Book 
+        p: $20
+        d: Textbook. All about VR. Bought for $100 
+        img: vrbook.JPG
+
+      - i: The Design of Everyday Things 
+        p: $5
+        d: Great condition, essential for designers and many developers 
+        img: design.JPG
+
+      - i: PixelSpirit Shader Deck 
+        p: $20
+        d: Deck of cards to teach shaders
+        img: shaders.JPG
+
       - i: Watchmen
         s: $20
         p: $5
@@ -361,15 +509,40 @@ categories:
   - name: Outdoors
     icon: fa-sun-cloud
     items:
+      - i: Camelbak Backpack 
+        p: Free 
+        d: Dayhike backpack that can hold a water bladder 
+        img: camelbak.JPG
+
+      - i: Compass 
+        p: Free 
+        d: It's a compass 
+        img: compass.JPG
+
+      - i: Ball Pump 
+        p: $3 
+        d: Pump balls 
+        img: pump.JPG
+
+      - i: Inflatable Two-Person Kayak + Pump + Paddles + Two Life Jackets 
+        p: $75
+        d: Excellent condition, used only once. Works for two people! 
+        img: kayak.JPG
+
       - i: TETON 80"x33" Brown / Pink Flannel-Lined 0F Sleeping Bag
         p: $30
         d: Rated 0F, but maybe better at 30F. Bought for $70, used couple times, only once outside
         img: teton.JPG
 
-      - i: Marmot 45F Nanowave Lightweight Sleeping Bag
-        p: $30
-        d: Olive green sleeping bag, used several times by my wife
-        img: marmot.JPG
+      - i: Rare 2011 Supreme x North Face Sleeping Bag
+        p: $749
+        d: Black + White. Sellers on eBay for $999, will appreciate in value. Email for more details!
+        img: supreme.JPG
+
+      - i: Large Throwable Crab Net with Trap
+        p: $15
+        d: Catch crabs on the pier!
+        img: crab.jpg
 
       - i: Garcia Bear Canister
         s: $60
@@ -393,13 +566,38 @@ categories:
   - name: Other Stuff
     icon: fa-boxes
     items:
+      - i: 10 Gallon Fish Tank Kit 
+        p: $30
+        d: Fish tank, filter, heater, aerator, pH meter, salt measurer, decorations 
+        img: fishtank.JPG
+
+      - i: Aeropress Coffee Maker
+        p: $10
+        d: Make great coffee! Worth $30 new
+        img: aeropress.JPG
+
+      - i: Fishmate Autofeeder 
+        p: $10
+        d: Timed fish autofeeder 
+        img: autofeeder.JPG
+
+      - i: Tall Photography Light Stand 
+        p: Free 
+        d: For holding a strobe or light 
+        img: lightstand.JPG
+
+      - i: Green Screen + White Screen + Black Screen
+        p: $10
+        d: Three curtains for $10
+        img: greenscreen.JPG
+
       - i: Sandusky Folding Shopping Cart
         p: $10
         d: Walk instead of drive for groceries, protect Earth! 66lbs capacity. Bought for $25, works great
         img: cart.JPG
 
       - i: All Might Funko Pop!
-        p: $4
+        p: Free 
         d: Toy from the popular anime Boku no Hero Academia, comes with stand and box
         img: allmight.JPG
 
@@ -412,16 +610,6 @@ categories:
         p: $80
         d: Beautiful sounding Kalimba instrument from KalimbaMagic, bought for $160
         img: kalimba.JPG
-
-      - i: Large Throwable Crab Net with Trap
-        p: $15
-        d: Catch crabs on the pier!
-        img: crab.jpg
-
-      - i: Rare 2011 Supreme x North Face Sleeping Bag
-        p: $749
-        d: Black + White. Sellers on eBay for $999, will appreciate in value. Email for more details!
-        img: supreme.JPG
 
       - i: Productivity Hourglasses
         p: $10

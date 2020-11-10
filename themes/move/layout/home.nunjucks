@@ -31,6 +31,33 @@
         <h3><i class="fal {{ category.icon }}"></i>{{ category.name }}</h3>
         <ul class="items">
           {% for item in category.items %}
+            {% if not item.sold %}
+              <li {% if item.sold %}data-sold{% endif %}>
+                <div class="img" style="background-image: url(/assets/img/{{ item.img }})" onclick="window.open('https://move.learncoupling.com/assets/img/{{ item.img }}', '_blank');"></div>
+                <div>
+                  <p class="title">
+                    {{ item.i }} &mdash;
+                    {% if item.s %}<span class="strikePrice">{{ item.s }}</span>{% endif %}
+                    <span class="price">{{ item.p }}</span>
+                  </p>
+                  <p>{% if item.sold %}<b>SOLD /{% endif %}</b>  {{ item.d }}</p>
+                </div>
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% include "./svg/wave.svg" %}
+    </section>
+  {% endfor %}
+
+  <section class="category" style="z-index: 1">
+    <div class="sectionInner">
+      <h3><i class="fal fa-money"></i>Sold</h3>
+      <ul class="items">
+        {% for category in site.data.items.categories %}
+          {% for item in category.items %}
+            {% if item.sold %}
             <li {% if item.sold %}data-sold{% endif %}>
               <div class="img" style="background-image: url(/assets/img/{{ item.img }})" onclick="window.open('https://move.learncoupling.com/assets/img/{{ item.img }}', '_blank');"></div>
               <div>
@@ -42,12 +69,13 @@
                 <p>{% if item.sold %}<b>SOLD /{% endif %}</b>  {{ item.d }}</p>
               </div>
             </li>
+            {% endif %}
           {% endfor %}
-        </ul>
-      </div>
-      {% include "./svg/wave.svg" %}
-    </section>
-  {% endfor %}
+        {% endfor %}
+      </ul>
+    </div>
+    {% include "./svg/wave.svg" %}
+  </section>
 
   <section class="footer">
     <a href="https://twitter.com/learncoupling" data-twitter-track>

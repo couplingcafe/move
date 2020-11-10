@@ -363,6 +363,7 @@ section.footer
   justify-content center
   padding 80px 0 40px 0
   width 100%
+
   z-index 0
 
   a
@@ -403,6 +404,11 @@ section.footer
       color #999
       text-decoration line-through
   p
+    text-align center
+    +media768()
+      text-align left
+  p.title
+    text-align center
     +media768()
       text-align left
   div:not(.img)
@@ -411,15 +417,12 @@ section.footer
     flex-direction column
     +media768()
       align-items flex-start
-  p
-    text-align left
   p:first-child
     font-family 'Fredoka One'
     font-weight bold
   p:last-child
     color $gray
     margin 0
-    text-align left
   .strikePrice
     font-family 'Raleway'
     opacity 0.5
@@ -440,6 +443,8 @@ section.category:nth-child(7)
   sectionYellow()
 section.category:nth-child(8)
   sectionPurple()
+section.category:nth-child(8)
+  sectionYellow()
 
 [data-sold] .img
   filter brightness(1.25) saturate(0) contrast(1.2)

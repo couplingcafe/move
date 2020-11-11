@@ -6,19 +6,23 @@ categories:
         p: $50
         d: The 2nd generation iPad, excellent condition
         img: ipad.JPG
+        sold: true
 
       - i: Amazon Echo Dot 1st Gen 
         p: $2
         d: Alexa-controlled Echo Dot 
         img: echo1.JPG
+        sold: true
 
       - i: Google Home 
         p: $5
         d: It's a Google Home 
         img: googlehome.JPG
+        sold: true
 
       - i: Logitech Webcam 1080P C920 with Dual Mic
-        p: $80
+        s: $80
+        p: $75
         d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now
         img: webcam.JPG
 
@@ -31,11 +35,13 @@ categories:
         p: $40
         d: Record buttery smooth video 
         img: gimbal.JPG
+        sold: true
 
       - i: Key Finder 
         p: Free 
         d: Attach to your keys to find when you lose it 
         img: keyfinder.JPG
+        sold: true
 
       - i: NVIDIA GeForce GTX1080 8GB EVGA 
         p: $295
@@ -62,6 +68,12 @@ categories:
         d: 8GB of RAM for a PC 
         img: ram.JPG
 
+      - i: Vizio 29-Inch 2.1 Home Theater Soundbar
+        p: $15
+        d: Great audio, comes with power and connection cable, supports bluetooth
+        img: soundbar.JPG
+        sold: true
+
       - i: AMD Radeon XFX Double-D 1GB GDDR5 HD6870 
         p: $40
         d: Bought this graphics card in 2012, should play games at medium 
@@ -72,6 +84,7 @@ categories:
         p: $35
         d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
         img: logitechmouse.JPG
+        sold: true
 
       - i: Intel i5-3570K 3.4GHZ Quadcore CPU
         p: $35
@@ -87,16 +100,19 @@ categories:
         p: $5
         d: Gaming PC case with LEDs and fans and cables
         img: cmstorm.JPG
+        sold: true
 
       - i: Logitech Wireless Keyboard with Trackpad
         p: $4
         d: Use this to control your TV! Trackpad and keyboard in one. Goes for $23 on Amazon
         img: logitechkeyboard.JPG
+        sold: true
 
       - i: Apple Airpods 1
         p: $50
         d: Great and clean working condition. Goes for $100 retail
         img: airpod.JPG
+        sold: true
 
       - i: ASUS 24" VN248H IPS Monitor
         p: $40
@@ -104,7 +120,8 @@ categories:
         img: asus.JPG
 
       - i: Wired Numpad
-        p: $2
+        s: $2
+        p: $1
         d: Need a numpad? Here's a numpad!
         img: numpad.JPG
 
@@ -112,6 +129,7 @@ categories:
         p: $50
         d: Works great. 5K reviews on Amazon, bought for $90
         img: printer.JPG
+        sold: true
 
       - i: Amazon Basics Keyboard
         p: $3
@@ -231,6 +249,7 @@ categories:
         p: $45
         d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
         img: microwave.JPG
+        sold: true
 
       - i: AmazonBasics Toaster
         p: $8
@@ -271,12 +290,12 @@ categories:
       - i: Nintendo 2DS Red + Charger
         p: $40
         d: Play Nintendo 3DS games! 
-        img: 3dsred.jpg
+        img: 3dsred.JPG
 
       - i: Nintendo 2DS Blue + Case + Charger
         p: $40
         d: Play Nintendo 3DS games! 
-        img: 3dsblue.jpg
+        img: 3dsblue.JPG
 
       - i: Kirby Superstar (3DS)
         p: $10
@@ -284,12 +303,12 @@ categories:
         img: kirby.JPG
 
       - i: Pokemon Black (3DS)
-        p: $10
+        p: $40
         d: Pokemon Black for Nintendo 3DS 
         img: blackwhite.JPG
 
       - i: Pokemon White (3DS)
-        p: $10
+        p: $40
         d: Pokemon White for Nintendo 3DS 
         img: blackwhite.JPG
 
@@ -327,8 +346,7 @@ categories:
       - i: Metal Gear Solid HD Collection (PS3) 
         p: $10
         d: MGS for PS3 
-        img: mgs.jpg
-
+        img: mgs.JPG
 
       - i: Super Mario Odyssey (Switch)
         s: $40
@@ -384,11 +402,13 @@ categories:
         p: $0.50 each
         d: SF apartments can be noisy! Reduce the echo in your room and absorb sound
         img: foam.JPG
+        sold: true
 
       - i: Emerson Self-Setting Radio Alarm Clock 
         p: $1
         d: Sets itself via satellites or something 
         img: clock.JPG
+        sold: true
 
       - i: IKEA Lack Side Table (White)
         p: Free 
@@ -399,11 +419,13 @@ categories:
         p: $4
         d: Cool wavy mirror, make your room look bigger!
         img: mirror.JPG
+        sold: true
 
       - i: Multicolored Checkered Hallway Rug (2' x 7')
         p: $4
         d: Colorful hallway runner rug. Bought for $20
         img: runner.JPG
+        sold: true
 
       - i: Multicolored Stripes Printed Rug (5' x 8') 
         p: $10
@@ -419,11 +441,13 @@ categories:
         p: $5
         d: Beautiful multi-shelf table counter with wheels
         img: rolltable.JPG
+        sold: true
 
       - i: Brown Chair Mat 
         p: $5 
         d: Protect your floors or carpet with a 3' x 4' textured chair mat 
         img: mat.JPG
+        sold: true
 
       - i: Birch Desk
         p: Free
@@ -518,21 +542,25 @@ categories:
         p: Free 
         d: Dayhike backpack that can hold a water bladder 
         img: camelbak.JPG
+        sold: true
 
       - i: Compass 
         p: Free 
         d: It's a compass 
         img: compass.JPG
+        sold: true
 
       - i: Ball Pump 
         p: $3 
         d: Pump balls 
         img: pump.JPG
+        sold: true
 
       - i: Inflatable Two-Person Kayak + Pump + Paddles + Two Life Jackets 
         p: $75
         d: Excellent condition, used only once. Works for two people! 
-        img: kayak.JPG
+        img: kayak.jpg
+        sold: true
 
       - i: TETON 80"x33" Brown / Pink Flannel-Lined 0F Sleeping Bag
         p: $30
@@ -548,6 +576,7 @@ categories:
         p: $15
         d: Catch crabs on the pier!
         img: crab.jpg
+        sold: true
 
       - i: Garcia Bear Canister
         s: $60
@@ -576,10 +605,17 @@ categories:
         d: Fish tank, filter, heater, aerator, pH meter, salt measurer, decorations 
         img: fishtank.JPG
 
+      - i: Biking Visibility Vest 
+        p: Free 
+        d: Stay safe! Make sure cars can see you 
+        img: viz.JPG
+        sold: true
+
       - i: Aeropress Coffee Maker
         p: $10
         d: Make great coffee! Worth $30 new
         img: aeropress.JPG
+        sold: true
 
       - i: Fishmate Autofeeder 
         p: $10
@@ -590,6 +626,7 @@ categories:
         p: Free 
         d: For holding a strobe or light 
         img: lightstand.JPG
+        sold: true
 
       - i: Green Screen + White Screen + Black Screen
         p: $10
@@ -600,11 +637,13 @@ categories:
         p: $10
         d: Walk instead of drive for groceries, protect Earth! 66lbs capacity. Bought for $25, works great
         img: cart.JPG
+        sold: true
 
       - i: All Might Funko Pop!
         p: Free 
         d: Toy from the popular anime Boku no Hero Academia, comes with stand and box
         img: allmight.JPG
+        sold: true
 
       - i: Timex Weekender with Leather Strap
         p: $20
@@ -615,6 +654,7 @@ categories:
         p: $80
         d: Beautiful sounding Kalimba instrument from KalimbaMagic, bought for $160
         img: kalimba.JPG
+        sold: true
 
       - i: Productivity Hourglasses
         p: $10

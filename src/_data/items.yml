@@ -1,374 +1,4 @@
 categories:
-  - name: Electronics
-    icon: fa-plug
-    items:
-      - i: iPad 2 16GB
-        p: $50
-        d: The 2nd generation iPad, excellent condition
-        img: ipad.JPG
-        sold: true
-
-      - i: Amazon Echo Dot 1st Gen 
-        p: $2
-        d: Alexa-controlled Echo Dot 
-        img: echo1.JPG
-        sold: true
-
-      - i: Google Home 
-        p: $5
-        d: It's a Google Home 
-        img: googlehome.JPG
-        sold: true
-
-      - i: Logitech Webcam 1080P C920 with Dual Mic
-        s: $80
-        p: $75
-        d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now
-        img: webcam.JPG
-
-      - i: Audio Technica ATH-50Ms Professional Monitor Headphones
-        p: $30
-        d: The same as the M50x but without detachable cable. The top is electrical-taped to layer the fraying
-        img: headphones.JPG
-
-      - i: Zhiyun Smooth-Q 3-Axis Gimbal Stabilizer for Smartphone 
-        p: $40
-        d: Record buttery smooth video 
-        img: gimbal.JPG
-        sold: true
-
-      - i: Key Finder 
-        p: Free 
-        d: Attach to your keys to find when you lose it 
-        img: keyfinder.JPG
-        sold: true
-
-      - i: NVIDIA GeForce GTX1080 8GB EVGA 
-        p: $295
-        d: Super powerful graphics card. Max out games or mine some Bitcoin, VR ready
-        img: 1080.JPG
-
-      - i: NVIDIA GeForce GTX1060 6GB PNY 
-        p: $150
-        d: Powerful graphics card. Play games on high settings, VR ready 
-        img: 1060.JPG
-
-      - i: ASRock Z77 Extreme3 Intel Motherboard 
-        p: $110
-        d: Motherboard for gaming PC 
-        img: asrock.JPG
-
-      - i: EVGA 600B Power Supply 
-        p: $50
-        d: Power supply, 600W, good for gaming PC
-        img: powersupply.JPG
-
-      - i: Ripjaw 4GB x 2 RAM Sticks
-        p: $15
-        d: 8GB of RAM for a PC 
-        img: ram.JPG
-
-      - i: Vizio 29-Inch 2.1 Home Theater Soundbar
-        p: $15
-        d: Great audio, comes with power and connection cable, supports bluetooth
-        img: soundbar.JPG
-        sold: true
-
-      - i: AMD Radeon XFX Double-D 1GB GDDR5 HD6870 
-        p: $40
-        d: Bought this graphics card in 2012, should play games at medium 
-        img: radeon.JPG
-
-      - i: Logitech MX Master 2S Wireless Mouse
-        s: $40
-        p: $35
-        d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
-        img: logitechmouse.JPG
-        sold: true
-
-      - i: Intel i5-3570K 3.4GHZ Quadcore CPU
-        p: $35
-        d: A used fast quad-core CPU from Intel
-        img: i3570k.JPG
-
-      - i: Intel i7-7700K 4.2GHZ Quadcore CPU
-        p: $230
-        d: An i7 Intel CPU 
-        img: i7700k.JPG
-
-      - i: Coolermaster Storm PC Case 
-        p: $5
-        d: Gaming PC case with LEDs and fans and cables
-        img: cmstorm.JPG
-        sold: true
-
-      - i: Logitech Wireless Keyboard with Trackpad
-        p: $4
-        d: Use this to control your TV! Trackpad and keyboard in one. Goes for $23 on Amazon
-        img: logitechkeyboard.JPG
-        sold: true
-
-      - i: Apple Airpods 1
-        p: $50
-        d: Great and clean working condition. Goes for $100 retail
-        img: airpod.JPG
-        sold: true
-
-      - i: ASUS 24" VN248H IPS Monitor
-        p: $40
-        d: 1920x1080 HD monitor, no scratches
-        img: asus.JPG
-
-      - i: Wired Numpad
-        s: $2
-        p: $1
-        d: Need a numpad? Here's a numpad!
-        img: numpad.JPG
-
-      - i: Brother HL-L2340DW Compact Wi-Fi Laser Printer w/ Ink Toner and Paper
-        p: $50
-        d: Works great. 5K reviews on Amazon, bought for $90
-        img: printer.JPG
-        sold: true
-
-      - i: Amazon Basics Keyboard
-        p: $3
-        d: Wired keyboard with numpad, excellent condition
-        img: amazonkeyboard.JPG
-
-      - i: Audio Technica ATH-50Mx Professional Monitor Headphones
-        p: $60
-        d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
-        img: headphones.JPG
-        sold: true
-
-      - i: ASUS VZ249H 23" IPS 1080P Ultra-Thin Monitor
-        p: $50
-        d: Ultra-thin bezel 23" IPS monitor from Asus
-        img: monitor.JPG
-        sold: true
-
-      - i: Oculus Rift S VR Headset
-        s: $300
-        p: $220
-        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
-        img: rift.JPG
-        sold: true
-
-      - i: Amazon Echo Dot with Alexa (3rd Gen)
-        p: $5
-        d: Excellent condition, has nice fabric shell
-        img: echodot.JPG
-        sold: true
-
-      - i: Apple Wireless Keyboard
-        p: $10
-        d: Wireless bluetooth keyboard, great condition
-        img: keyboard.JPG
-        sold: true
-
-      - i: Belkin 12-Port 8' Power Strip
-        p: $5
-        d: Goes for $22 on Amazon.
-        img: belkin.JPG
-        sold: true
-
-      - i: Dimmable Multicolor Smart Bulbs (x2)
-        p: $5 Each
-        d: Can be used with Alexa, Apple Home, Google Home. One is TPLink, one is Wowfeel
-        img: smartbulbtp.JPG
-        sold: true
-
-      - i: Anker Wireless Charger (x2)
-        p: $10 Each
-        d: Wirelessly charge your devices with the top brand, Anker. Comes with cable and plug
-        img: wirelesscharger.JPG
-        sold: true
-
-      - i: HTC Vive VR Headset
-        p: $100
-        d: Comes with headset, sport band, controllers, Knuckles, base stations, cables
-        img: vive.JPG
-        sold: true
-
-      - i: Razer Blade 2016 GTX1060 Gaming Laptop
-        p: $400
-        d: Used for work. Good condition laptop with charger
-        img: razer.JPG
-        sold: true
-
-      - i: 128GB iPhone 6
-        p: $40
-        d: Used condition, screen in good condition, no cracks
-        img: iphone.JPG
-        sold: true
-
-      - i: Amazon Fire Stick 1080P
-        p: $5
-        d: New, sealed in box
-        img: firestick.JPG
-        sold: true
-
-      - i: Apple TV 4th Generation
-        s: $135
-        p: $100
-        d: Great condition, originally bought at $200
-        img: appletv.JPG
-        sold: true
-
-      - i: Apple Magic Mouse 2
-        s: $60
-        p: $40
-        d: Rarely used. Goes for $79 new
-        img: magicmouse.JPG
-        sold: true
-
-      - i: USB C Dongle
-        p: $5
-        d: It's a dongle
-        img: dongle.JPG
-        sold: true
-
-      - i: Amazon Fire 7" Tablet
-        p: $5
-        d: A tablet for $5! Perfect screen condition
-        img: fire.JPG
-        sold: true
-
-      - i: Samsung Keyboard
-        p: $10
-        d: Samsung wireless keyboard, great condition
-        img: samsungkeyboard.JPG
-        sold: true
-
-  - name: Appliances
-    icon: fa-microwave
-    items:
-      - i: Panasonic NN-SN65KB 1200W Microwave
-        s: $69
-        p: $45
-        d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
-        img: microwave.JPG
-        sold: true
-
-      - i: AmazonBasics Toaster
-        p: $8
-        d: Bought recently. Has two slots for bread or bagel. Goes for $23 on Amazon
-        img: toaster.JPG
-
-      - i: Technivorm Moccamaster 79312 Coffee Brewer
-        s: $175
-        p: $160
-        d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
-        img: mochamaster.JPG
-
-      - i: PARTU Air Filter + Extra Filter
-        p: $30
-        d: Be ready for next wildfires and breathe clean air. Like new condition, bought for $50
-        img: filter.JPG
-        sold: true
-
-      - i: Insignia Pressure Cooker
-        p: $15
-        d: Cook faster, make food tender. Works perfectly. The exact same thing as an Instapot
-        img: pressure.JPG
-        sold: true
-
-  - name: Games
-    icon: fa-gamepad
-    items:
-      - i: Dominion 1st Edition Base Set 
-        p: $15
-        d: My favorite board / card game. I have 5 expansions and I upgraded to 2nd edition so I don't need this anymore. 
-        img: dominion.JPG
-
-      - i: Playstation 4 Slim 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
-        p: $200
-        d: It's a PS4! I got a Switch and don't think I'll have time to play it
-        img: ps4.jpg
-
-      - i: Nintendo 2DS Red + Charger
-        p: $40
-        d: Play Nintendo 3DS games! 
-        img: 3dsred.JPG
-
-      - i: Nintendo 2DS Blue + Case + Charger
-        p: $40
-        d: Play Nintendo 3DS games! 
-        img: 3dsblue.JPG
-
-      - i: Kirby Superstar (3DS)
-        p: $10
-        d: Kirby for Nintendo 3DS! 
-        img: kirby.JPG
-
-      - i: Pokemon Black (3DS)
-        p: $40
-        d: Pokemon Black for Nintendo 3DS 
-        img: blackwhite.JPG
-
-      - i: Pokemon White (3DS)
-        p: $40
-        d: Pokemon White for Nintendo 3DS 
-        img: blackwhite.JPG
-
-      - i: Pokemon Sun & Moon with Exclusive Steelbook (3DS)
-        p: $70
-        d: Pokemon Sun & Moon cartridges with collector's steelbook 
-        img: sunmoon.JPG
-
-      - i: Legend of Zelda - Ocarina of Time (3DS)
-        p: $10
-        d: Classic game for 3DS. Comes with box and cartridge
-        img: zelda.JPG
-
-      - i: Overwatch (PS4)
-        p: $5
-        d: PS4 game. Goes for $20 online
-        img: overwatch.JPG
-
-      - i: STOP Thief!
-        s: $15
-        p: $10
-        d: Rare board game where you try to catch an invisible thief, interactive!
-        img: stopthief.JPG
-
-      - i: UNLOCK by Space Cowboys
-        p: $5
-        d: Three escape rooms in a box. Card-based
-        img: unlock.JPG
-
-      - i: 7 Wonders Duel
-        p: $10
-        d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
-        img: duel.JPG
-
-      - i: Metal Gear Solid HD Collection (PS3) 
-        p: $10
-        d: MGS for PS3 
-        img: mgs.JPG
-
-      - i: Super Mario Odyssey (Switch)
-        s: $40
-        p: $30
-        d: Nintendo Switch game. Box and cartridge, like new. We beat it together, super fun!
-        img: mario.JPG
-        sold: true
-
-      - i: Pokemon Shield (Switch)
-        s: $40
-        p: $30
-        d: Nintendo Switch game. Box and cartridge, like new
-        img: pokemon.JPG
-        sold: true
-
-      - i: Mario & Sonic at the Olympic Games (Switch)
-        s: $45
-        p: $20
-        d: Nintendo Switch game. Box and cartridge, like new
-        img: sonic.JPG
-        sold: true
-
   - name: Furniture
     icon: fa-chair
     items:
@@ -498,6 +128,386 @@ categories:
         img: fan.JPG
         sold: true
 
+  - name: Electronics
+    icon: fa-plug
+    items:
+      - i: iPad 2 16GB
+        p: $50
+        d: The 2nd generation iPad, excellent condition
+        img: ipad.JPG
+        sold: true
+
+      - i: Amazon Echo Dot 1st Gen 
+        p: $2
+        d: Alexa-controlled Echo Dot 
+        img: echo1.JPG
+        sold: true
+
+      - i: Google Home 
+        p: $5
+        d: It's a Google Home 
+        img: googlehome.JPG
+        sold: true
+
+      - i: Logitech Webcam 1080P C920 with Dual Mic
+        s: $80
+        p: $75
+        d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now
+        img: webcam.JPG
+
+      - i: Audio Technica ATH-50Ms Professional Monitor Headphones
+        p: $30
+        d: The same as the M50x but without detachable cable. The top is electrical-taped to layer the fraying
+        img: headphones.JPG
+        sold: true
+
+      - i: Zhiyun Smooth-Q 3-Axis Gimbal Stabilizer for Smartphone 
+        p: $40
+        d: Record buttery smooth video 
+        img: gimbal.JPG
+        sold: true
+
+      - i: Key Finder 
+        p: Free 
+        d: Attach to your keys to find when you lose it 
+        img: keyfinder.JPG
+        sold: true
+
+      - i: NVIDIA GeForce GTX1080 8GB EVGA 
+        p: $295
+        d: Super powerful graphics card. Max out games or mine some Bitcoin, VR ready
+        img: 1080.JPG
+
+      - i: NVIDIA GeForce GTX1060 6GB PNY 
+        p: $150
+        d: Powerful graphics card. Play games on high settings, VR ready 
+        img: 1060.JPG
+
+      - i: ASRock Z77 Extreme3 Intel Motherboard 
+        p: $110
+        d: Motherboard for gaming PC 
+        img: asrock.JPG
+
+      - i: EVGA 600B Power Supply 
+        p: $50
+        d: Power supply, 600W, good for gaming PC
+        img: powersupply.JPG
+
+      - i: Ripjaw 4GB x 2 RAM Sticks
+        p: $15
+        d: 8GB of RAM for a PC 
+        img: ram.JPG
+
+      - i: Vizio 29-Inch 2.1 Home Theater Soundbar
+        p: $15
+        d: Great audio, comes with power and connection cable, supports bluetooth
+        img: soundbar.JPG
+        sold: true
+
+      - i: AMD Radeon XFX Double-D 1GB GDDR5 HD6870 
+        p: $40
+        d: Bought this graphics card in 2012, should play games at medium 
+        img: radeon.JPG
+
+      - i: Logitech MX Master 2S Wireless Mouse
+        s: $40
+        p: $35
+        d: Top-of-class mouse. Ergonomic grip, lot of extra buttons, perfect tracking, multi-device. Goes for $75 new
+        img: logitechmouse.JPG
+        sold: true
+
+      - i: Intel i5-3570K 3.4GHZ Quadcore CPU
+        p: $35
+        d: A used fast quad-core CPU from Intel
+        img: i3570k.JPG
+
+      - i: Intel i7-7700K 4.2GHZ Quadcore CPU
+        p: $230
+        d: An i7 Intel CPU 
+        img: i7700k.JPG
+
+      - i: Coolermaster Storm PC Case 
+        p: $5
+        d: Gaming PC case with LEDs and fans and cables
+        img: cmstorm.JPG
+        sold: true
+
+      - i: Logitech Wireless Keyboard with Trackpad
+        p: $4
+        d: Use this to control your TV! Trackpad and keyboard in one. Goes for $23 on Amazon
+        img: logitechkeyboard.JPG
+        sold: true
+
+      - i: Apple Airpods 1
+        p: $50
+        d: Great and clean working condition. Goes for $100 retail
+        img: airpod.JPG
+        sold: true
+
+      - i: ASUS 24" VN248H IPS Monitor
+        p: $40
+        d: 1920x1080 HD monitor, no scratches
+        img: asus.JPG
+
+      - i: Wired Numpad
+        s: $2
+        p: $1
+        d: Need a numpad? Here's a numpad!
+        img: numpad.JPG
+        sold: true
+
+      - i: Brother HL-L2340DW Compact Wi-Fi Laser Printer w/ Ink Toner and Paper
+        p: $50
+        d: Works great. 5K reviews on Amazon, bought for $90
+        img: printer.JPG
+        sold: true
+
+      - i: Amazon Basics Keyboard
+        p: $3
+        d: Wired keyboard with numpad, excellent condition
+        img: amazonkeyboard.JPG
+        sold: true
+
+      - i: Audio Technica ATH-50Mx Professional Monitor Headphones
+        p: $60
+        d: Beloved headphones. Check eBay and Amazon, these are $100+ used, $150 new. Some fraying of the leather on top
+        img: headphones.JPG
+        sold: true
+
+      - i: ASUS VZ249H 23" IPS 1080P Ultra-Thin Monitor
+        p: $50
+        d: Ultra-thin bezel 23" IPS monitor from Asus
+        img: monitor.JPG
+        sold: true
+
+      - i: Oculus Rift S VR Headset
+        s: $300
+        p: $220
+        d: Used for work. Small piece of foam glued back on. Comes with box and controllers. I also have an Oculus Quest for sale, message me
+        img: rift.JPG
+        sold: true
+
+      - i: Amazon Echo Dot with Alexa (3rd Gen)
+        p: $5
+        d: Excellent condition, has nice fabric shell
+        img: echodot.JPG
+        sold: true
+
+      - i: Apple Wireless Keyboard
+        p: $10
+        d: Wireless bluetooth keyboard, great condition
+        img: keyboard.JPG
+        sold: true
+
+      - i: Belkin 12-Port 8' Power Strip
+        p: $5
+        d: Goes for $22 on Amazon.
+        img: belkin.JPG
+        sold: true
+
+      - i: Dimmable Multicolor Smart Bulbs (x2)
+        p: $5 Each
+        d: Can be used with Alexa, Apple Home, Google Home. One is TPLink, one is Wowfeel
+        img: smartbulbtp.JPG
+        sold: true
+
+      - i: Anker Wireless Charger (x2)
+        p: $10 Each
+        d: Wirelessly charge your devices with the top brand, Anker. Comes with cable and plug
+        img: wirelesscharger.JPG
+        sold: true
+
+      - i: HTC Vive VR Headset
+        p: $100
+        d: Comes with headset, sport band, controllers, Knuckles, base stations, cables
+        img: vive.JPG
+        sold: true
+
+      - i: Razer Blade 2016 GTX1060 Gaming Laptop
+        p: $400
+        d: Used for work. Good condition laptop with charger
+        img: razer.JPG
+        sold: true
+
+      - i: 128GB iPhone 6
+        p: $40
+        d: Used condition, screen in good condition, no cracks
+        img: iphone.JPG
+        sold: true
+
+      - i: Amazon Fire Stick 1080P
+        p: $5
+        d: New, sealed in box
+        img: firestick.JPG
+        sold: true
+
+      - i: Apple TV 4th Generation
+        s: $135
+        p: $100
+        d: Great condition, originally bought at $200
+        img: appletv.JPG
+        sold: true
+
+      - i: Apple Magic Mouse 2
+        s: $60
+        p: $40
+        d: Rarely used. Goes for $79 new
+        img: magicmouse.JPG
+        sold: true
+
+      - i: USB C Dongle
+        p: $5
+        d: It's a dongle
+        img: dongle.JPG
+        sold: true
+
+      - i: Amazon Fire 7" Tablet
+        p: $5
+        d: A tablet for $5! Perfect screen condition
+        img: fire.JPG
+        sold: true
+
+      - i: Samsung Keyboard
+        p: $10
+        d: Samsung wireless keyboard, great condition
+        img: samsungkeyboard.JPG
+        sold: true
+
+  - name: Appliances
+    icon: fa-microwave
+    items:
+      - i: Panasonic NN-SN65KB 1200W Microwave
+        s: $69
+        p: $45
+        d: 1.2 cubic foot microwave with 1200W of power. Goes for $160 on Amazon!
+        img: microwave.JPG
+        sold: true
+
+      - i: AmazonBasics Toaster
+        p: $8
+        d: Bought recently. Has two slots for bread or bagel. Goes for $23 on Amazon
+        img: toaster.JPG
+        sold: true
+
+      - i: Technivorm Moccamaster 79312 Coffee Brewer
+        s: $175
+        p: $150
+        d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
+        img: mochamaster.JPG
+
+      - i: PARTU Air Filter + Extra Filter
+        p: $30
+        d: Be ready for next wildfires and breathe clean air. Like new condition, bought for $50
+        img: filter.JPG
+        sold: true
+
+      - i: Insignia Pressure Cooker
+        p: $15
+        d: Cook faster, make food tender. Works perfectly. The exact same thing as an Instapot
+        img: pressure.JPG
+        sold: true
+
+  - name: Games
+    icon: fa-gamepad
+    items:
+      - i: Dominion 1st Edition Base Set 
+        p: $12
+        d: My favorite board / card game. I have 5 expansions and I upgraded to 2nd edition so I don't need this anymore. 
+        img: dominion.JPG
+        sold: true
+
+      - i: Playstation 4 Slim 500GB w/ Uncharted 4 + Ratchet and Clank, Controller
+        p: $200
+        d: It's a PS4! I got a Switch and don't think I'll have time to play it
+        img: ps4.jpg
+
+      - i: Nintendo 2DS Red + Charger
+        p: $40
+        d: Excellent condition. Play Nintendo 3DS games! 
+        img: 3dsred.JPG
+
+      - i: Nintendo 2DS Blue + Case + Charger
+        p: $40
+        d: Small scratch on top screen that can't be seen while playing, some scuffs on top left plastic covered by case. Play Nintendo 3DS games! 
+        img: 3dsblue.JPG
+
+      - i: Kirby Superstar (3DS)
+        p: $10
+        d: Kirby for Nintendo 3DS! 
+        img: kirby.JPG
+
+      - i: Pokemon Black (3DS)
+        p: $40
+        d: Pokemon Black for Nintendo 3DS 
+        img: blackwhite.JPG
+
+      - i: Pokemon White (3DS)
+        p: $40
+        d: Pokemon White for Nintendo 3DS 
+        img: blackwhite.JPG
+
+      - i: Pokemon Sun & Moon with Exclusive Steelbook (3DS)
+        p: $70
+        d: Pokemon Sun & Moon cartridges with collector's steelbook 
+        img: sunmoon.JPG
+
+      - i: Legend of Zelda - Ocarina of Time (3DS)
+        p: $10
+        d: Classic game for 3DS. Comes with box and cartridge
+        img: zelda.JPG
+
+      - i: Overwatch (PS4)
+        p: $5
+        d: PS4 game. Goes for $20 online
+        img: overwatch.JPG
+
+      - i: STOP Thief!
+        s: $15
+        p: $10
+        d: Rare board game where you try to catch an invisible thief, interactive!
+        img: stopthief.JPG
+
+      - i: UNLOCK by Space Cowboys
+        p: $5
+        d: Three escape rooms in a box. Card-based
+        img: unlock.JPG
+
+      - i: 7 Wonders Duel
+        p: $10
+        d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
+        img: duel.JPG
+
+      - i: Metal Gear Solid HD Collection (PS3) 
+        p: $10
+        d: MGS for PS3 
+        img: mgs.JPG
+
+      - i: Luigi's Mansion 3 (Switch) 
+        p: $40
+        d: Bought new couple weeks ago and just beat it. Favorite Switch game 
+        img: mansion.JPG
+
+      - i: Super Mario Odyssey (Switch)
+        s: $40
+        p: $30
+        d: Nintendo Switch game. Box and cartridge, like new. We beat it together, super fun!
+        img: mario.JPG
+        sold: true
+
+      - i: Pokemon Shield (Switch)
+        s: $40
+        p: $30
+        d: Nintendo Switch game. Box and cartridge, like new
+        img: pokemon.JPG
+        sold: true
+
+      - i: Mario & Sonic at the Olympic Games (Switch)
+        s: $45
+        p: $20
+        d: Nintendo Switch game. Box and cartridge, like new
+        img: sonic.JPG
+        sold: true
+
   - name: Books
     icon: fa-books
     items:
@@ -510,6 +520,7 @@ categories:
         p: $5
         d: Great condition, essential for designers and many developers 
         img: design.JPG
+        sold: true
 
       - i: PixelSpirit Shader Deck 
         p: $20
@@ -538,6 +549,11 @@ categories:
   - name: Outdoors
     icon: fa-sun-cloud
     items:
+      - i: TaoTronics 16' Retractable Dog Leash 
+        p: $4 
+        d: After rescuing a dog from a canyon in Hawaii, we almost adopted it. This unopened box of a leash is our reminder of that  
+        img: leash.JPG
+
       - i: Camelbak Backpack 
         p: Free 
         d: Dayhike backpack that can hold a water bladder 
@@ -604,6 +620,7 @@ categories:
         p: $30
         d: Fish tank, filter, heater, aerator, pH meter, salt measurer, decorations 
         img: fishtank.JPG
+        sold: true
 
       - i: Biking Visibility Vest 
         p: Free 

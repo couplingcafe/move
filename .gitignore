@@ -8,3 +8,5 @@ public
 public/
 db.json
 dist/
+
+yarn.lock

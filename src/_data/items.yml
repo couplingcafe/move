@@ -1,4 +1,27 @@
 categories:
+  - name: Free
+    icon: fa-gift
+    items:
+      - i: Free Items 1
+        p: Free
+        d: Kitchenware, mugs, USB cables, speakers, flashlights, shoehorn, random stuff
+        img: free1.JPG
+
+      - i: Free Items 2
+        p: Free
+        d: Gloves, snackbags, lint roller, silverware, sunglasses, skincare, clip-on earrings, aquarium sand, tank decorations, ice tray
+        img: free2.JPG
+
+      - i: Nightstand
+        p: Free
+        d: Rustic looking nightstand
+        img: nightstand.JPG
+
+      - i: IKEA Lack Side Table (White)
+        p: Free
+        d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
+        img: lackwhite.JPG
+
   - name: Furniture
     icon: fa-chair
     items:
@@ -7,21 +30,47 @@ categories:
         d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies
         img: center.JPG
 
+      - i: Hangers
+        p: $1 for 10
+        d: Stay organized. Ton of matching hangers, black or white or gray
+        img: hangers.JPG
+
       - i: Ergonomic Standing Desk
         p: $80
         d: Bought for $180. 32" wide, fits two monitors, adjustable, has wheels. Stand up and improve your health
         img: standingdesk.JPG
+
+      - i: Floating Bed Nightstand
+        p: $10
+        d: A shelf to clamp to your headboard to act as a floating nightstand
+        img: bedshelf.JPG
+
+      - i: Desk Hammock for Feet
+        p: $5
+        d: Rest your feet while you work, or keep them moving
+        img: hammock.JPG
+
+      - i: Ikea Hektor Wall Lamp
+        p: $5
+        d: Our favorite lamp. Comes with wall mount, light bulb, screws
+        img: hektor.JPG
+
+      - i: Shoe Rack 1
+        p: $4 Each
+        d: Wooden shoe rack. We have two
+        img: shoerack.JPG
+
+      - i: Shoe Rack 2
+        p: $4
+        d: Plastic shoe rack that can hold a lot of shoes
+        img: shoerack2.JPG
+
 
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
         p: $10
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
         sold: true
-
-      - i: Nightstand
-        p: Free
-        d: Rustic looking nightstand
-        img: nightstand.JPG
 
       - i: IKEA MALM Queen Bed Frame
         p: $30
@@ -45,11 +94,6 @@ categories:
         d: Sets itself via satellites or something
         img: clock.JPG
         sold: true
-
-      - i: IKEA Lack Side Table (White)
-        p: Free
-        d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
-        img: lackwhite.JPG
 
       - i: IKEA Wavy Standing Mirror
         p: $4
@@ -137,6 +181,16 @@ categories:
   - name: Electronics
     icon: fa-plug
     items:
+      - i: Anker USB-C Dongle
+        p: $5
+        d: 2 USB ports, one HDMI port, one SD card slot. Great for laptops
+        img: dongle2.JPG
+
+      - i: Wi-Fi Smart Plugs
+        p: $5 Each
+        d: Control any electronic with a smarthome with these smart plugs. We have at least 4 available
+        img: smartplugs.JPG
+
       - i: iPad 2 16GB
         p: $50
         d: The 2nd generation iPad, excellent condition
@@ -178,6 +232,11 @@ categories:
         d: Attach to your keys to find when you lose it
         img: keyfinder.JPG
         sold: true
+
+      - i: NVIDIA GeForce GTX750 2GB ASUS
+        p: $50
+        d: A decent graphics card to have in handy
+        img: gtx750.JPG
 
       - i: NVIDIA GeForce GTX1080 8GB EVGA
         p: $295
@@ -629,6 +688,21 @@ categories:
   - name: Other Stuff
     icon: fa-boxes
     items:
+      - i: Boltcutters
+        p: $5
+        d: Used literally once. Cut whatever
+        img: boltcutters.JPG
+
+      - i: White Noise Machine
+        p: $15
+        d: Kept my sanity in check as I lived underneath a noisy neighbor. Mask your neighbor or street sounds
+        img: whitenoise.JPG
+
+      - i: WaterPik Flosser
+        p: $15
+        d: Uses water pressure to clean your teeth. Obviously, you'll want to clean these well or get replacement heads
+        img: waterpik.JPG
+
       - i: 10 Gallon Fish Tank Kit
         p: $30
         d: Fish tank, filter, heater, aerator, pH meter, salt measurer, decorations

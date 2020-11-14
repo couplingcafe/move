@@ -2,18 +2,19 @@ categories:
   - name: Furniture
     icon: fa-chair
     items:
-      - i: IKEA Kallax Shelf Unit 
-        p: $15 
-        d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies 
+      - i: IKEA Kallax Shelf Unit
+        p: $15
+        d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies
         img: center.JPG
 
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
-        p: $10 
+        p: $10
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
+        sold: true
 
       - i: Nightstand
-        p: Free 
+        p: Free
         d: Rustic looking nightstand
         img: nightstand.JPG
 
@@ -23,7 +24,7 @@ categories:
         img: ikeaframe.jpg
 
       - i: Ikea MALM Dresser
-        p: $5 
+        p: $5
         d: Great wooden IKEA Malm dresser, preassembled
         img: dresser.JPG
 
@@ -34,14 +35,14 @@ categories:
         img: foam.JPG
         sold: true
 
-      - i: Emerson Self-Setting Radio Alarm Clock 
+      - i: Emerson Self-Setting Radio Alarm Clock
         p: $1
-        d: Sets itself via satellites or something 
+        d: Sets itself via satellites or something
         img: clock.JPG
         sold: true
 
       - i: IKEA Lack Side Table (White)
-        p: Free 
+        p: Free
         d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
         img: lackwhite.JPG
 
@@ -57,7 +58,7 @@ categories:
         img: runner.JPG
         sold: true
 
-      - i: Multicolored Stripes Printed Rug (5' x 8') 
+      - i: Multicolored Stripes Printed Rug (5' x 8')
         p: $10
         d: Colorful large rug! Very clean. Bought for $40
         img: ruglarge.JPG
@@ -73,9 +74,9 @@ categories:
         img: rolltable.JPG
         sold: true
 
-      - i: Brown Chair Mat 
-        p: $5 
-        d: Protect your floors or carpet with a 3' x 4' textured chair mat 
+      - i: Brown Chair Mat
+        p: $5
+        d: Protect your floors or carpet with a 3' x 4' textured chair mat
         img: mat.JPG
         sold: true
 
@@ -137,15 +138,15 @@ categories:
         img: ipad.JPG
         sold: true
 
-      - i: Amazon Echo Dot 1st Gen 
+      - i: Amazon Echo Dot 1st Gen
         p: $2
-        d: Alexa-controlled Echo Dot 
+        d: Alexa-controlled Echo Dot
         img: echo1.JPG
         sold: true
 
-      - i: Google Home 
+      - i: Google Home
         p: $5
-        d: It's a Google Home 
+        d: It's a Google Home
         img: googlehome.JPG
         sold: true
 
@@ -161,41 +162,42 @@ categories:
         img: headphones.JPG
         sold: true
 
-      - i: Zhiyun Smooth-Q 3-Axis Gimbal Stabilizer for Smartphone 
+      - i: Zhiyun Smooth-Q 3-Axis Gimbal Stabilizer for Smartphone
         p: $40
-        d: Record buttery smooth video 
+        d: Record buttery smooth video
         img: gimbal.JPG
         sold: true
 
-      - i: Key Finder 
-        p: Free 
-        d: Attach to your keys to find when you lose it 
+      - i: Key Finder
+        p: Free
+        d: Attach to your keys to find when you lose it
         img: keyfinder.JPG
         sold: true
 
-      - i: NVIDIA GeForce GTX1080 8GB EVGA 
+      - i: NVIDIA GeForce GTX1080 8GB EVGA
         p: $295
         d: Super powerful graphics card. Max out games or mine some Bitcoin, VR ready
         img: 1080.JPG
+        sold: true
 
-      - i: NVIDIA GeForce GTX1060 6GB PNY 
+      - i: NVIDIA GeForce GTX1060 6GB PNY
         p: $150
-        d: Powerful graphics card. Play games on high settings, VR ready 
+        d: Powerful graphics card. Play games on high settings, VR ready
         img: 1060.JPG
 
-      - i: ASRock Z77 Extreme3 Intel Motherboard 
+      - i: ASRock Z77 Extreme3 Intel Motherboard
         p: $110
-        d: Motherboard for gaming PC 
+        d: Motherboard for gaming PC
         img: asrock.JPG
 
-      - i: EVGA 600B Power Supply 
+      - i: EVGA 600B Power Supply
         p: $50
         d: Power supply, 600W, good for gaming PC
         img: powersupply.JPG
 
       - i: Ripjaw 4GB x 2 RAM Sticks
         p: $15
-        d: 8GB of RAM for a PC 
+        d: 8GB of RAM for a PC
         img: ram.JPG
 
       - i: Vizio 29-Inch 2.1 Home Theater Soundbar
@@ -204,9 +206,9 @@ categories:
         img: soundbar.JPG
         sold: true
 
-      - i: AMD Radeon XFX Double-D 1GB GDDR5 HD6870 
+      - i: AMD Radeon XFX Double-D 1GB GDDR5 HD6870
         p: $40
-        d: Bought this graphics card in 2012, should play games at medium 
+        d: Bought this graphics card in 2012, should play games at medium
         img: radeon.JPG
 
       - i: Logitech MX Master 2S Wireless Mouse
@@ -223,10 +225,10 @@ categories:
 
       - i: Intel i7-7700K 4.2GHZ Quadcore CPU
         p: $230
-        d: An i7 Intel CPU 
+        d: An i7 Intel CPU
         img: i7700k.JPG
 
-      - i: Coolermaster Storm PC Case 
+      - i: Coolermaster Storm PC Case
         p: $5
         d: Gaming PC case with LEDs and fans and cables
         img: cmstorm.JPG
@@ -248,6 +250,7 @@ categories:
         p: $40
         d: 1920x1080 HD monitor, no scratches
         img: asus.JPG
+        sold: true
 
       - i: Wired Numpad
         s: $2
@@ -410,9 +413,9 @@ categories:
   - name: Games
     icon: fa-gamepad
     items:
-      - i: Dominion 1st Edition Base Set 
+      - i: Dominion 1st Edition Base Set
         p: $12
-        d: My favorite board / card game. I have 5 expansions and I upgraded to 2nd edition so I don't need this anymore. 
+        d: My favorite board / card game. I have 5 expansions and I upgraded to 2nd edition so I don't need this anymore.
         img: dominion.JPG
         sold: true
 
@@ -420,35 +423,36 @@ categories:
         p: $200
         d: It's a PS4! I got a Switch and don't think I'll have time to play it
         img: ps4.jpg
+        sold: true
 
       - i: Nintendo 2DS Red + Charger
         p: $40
-        d: Excellent condition. Play Nintendo 3DS games! 
+        d: Good condition. Has couple hairline scratches on top screen that cannot be seen while system is on.
         img: 3dsred.JPG
 
       - i: Nintendo 2DS Blue + Case + Charger
         p: $40
-        d: Small scratch on top screen that can't be seen while playing, some scuffs on top left plastic covered by case. Play Nintendo 3DS games! 
+        d: Small hairline scratch on top screen that can't be seen while playing, some scuffs on top left plastic covered by case.
         img: 3dsblue.JPG
 
       - i: Kirby Superstar (3DS)
         p: $10
-        d: Kirby for Nintendo 3DS! 
+        d: Kirby for Nintendo 3DS!
         img: kirby.JPG
 
       - i: Pokemon Black (3DS)
         p: $40
-        d: Pokemon Black for Nintendo 3DS 
+        d: Pokemon Black for Nintendo 3DS
         img: blackwhite.JPG
 
       - i: Pokemon White (3DS)
         p: $40
-        d: Pokemon White for Nintendo 3DS 
+        d: Pokemon White for Nintendo 3DS
         img: blackwhite.JPG
 
       - i: Pokemon Sun & Moon with Exclusive Steelbook (3DS)
         p: $70
-        d: Pokemon Sun & Moon cartridges with collector's steelbook 
+        d: Pokemon Sun & Moon cartridges with collector's steelbook
         img: sunmoon.JPG
 
       - i: Legend of Zelda - Ocarina of Time (3DS)
@@ -460,6 +464,7 @@ categories:
         p: $5
         d: PS4 game. Goes for $20 online
         img: overwatch.JPG
+        sold: true
 
       - i: STOP Thief!
         s: $15
@@ -471,20 +476,22 @@ categories:
         p: $5
         d: Three escape rooms in a box. Card-based
         img: unlock.JPG
+        sold: true
 
       - i: 7 Wonders Duel
         p: $10
         d: Two player board spin off from the popular 7 Wonders. High rated game, goes for $25
         img: duel.JPG
+        sold: true
 
-      - i: Metal Gear Solid HD Collection (PS3) 
+      - i: Metal Gear Solid HD Collection (PS3)
         p: $10
-        d: MGS for PS3 
+        d: MGS for PS3
         img: mgs.JPG
 
-      - i: Luigi's Mansion 3 (Switch) 
-        p: $40
-        d: Bought new couple weeks ago and just beat it. Favorite Switch game 
+      - i: Luigi's Mansion 3 (Switch)
+        p: $30
+        d: Bought new couple weeks ago and just beat it. Favorite Switch game
         img: mansion.JPG
 
       - i: Super Mario Odyssey (Switch)
@@ -511,18 +518,18 @@ categories:
   - name: Books
     icon: fa-books
     items:
-      - i: The VR Book 
+      - i: The VR Book
         p: $20
-        d: Textbook. All about VR. Bought for $100 
+        d: Textbook. All about VR. Bought for $100
         img: vrbook.JPG
 
-      - i: The Design of Everyday Things 
+      - i: The Design of Everyday Things
         p: $5
-        d: Great condition, essential for designers and many developers 
+        d: Great condition, essential for designers and many developers
         img: design.JPG
         sold: true
 
-      - i: PixelSpirit Shader Deck 
+      - i: PixelSpirit Shader Deck
         p: $20
         d: Deck of cards to teach shaders
         img: shaders.JPG
@@ -549,32 +556,32 @@ categories:
   - name: Outdoors
     icon: fa-sun-cloud
     items:
-      - i: TaoTronics 16' Retractable Dog Leash 
-        p: $4 
-        d: After rescuing a dog from a canyon in Hawaii, we almost adopted it. This unopened box of a leash is our reminder of that  
+      - i: TaoTronics 16' Retractable Dog Leash
+        p: $4
+        d: After rescuing a dog from a canyon in Hawaii, we almost adopted it. This unopened box of a leash is our reminder of that
         img: leash.JPG
 
-      - i: Camelbak Backpack 
-        p: Free 
-        d: Dayhike backpack that can hold a water bladder 
+      - i: Camelbak Backpack
+        p: Free
+        d: Dayhike backpack that can hold a water bladder
         img: camelbak.JPG
         sold: true
 
-      - i: Compass 
-        p: Free 
-        d: It's a compass 
+      - i: Compass
+        p: Free
+        d: It's a compass
         img: compass.JPG
         sold: true
 
-      - i: Ball Pump 
-        p: $3 
-        d: Pump balls 
+      - i: Ball Pump
+        p: $3
+        d: Pump balls
         img: pump.JPG
         sold: true
 
-      - i: Inflatable Two-Person Kayak + Pump + Paddles + Two Life Jackets 
+      - i: Inflatable Two-Person Kayak + Pump + Paddles + Two Life Jackets
         p: $75
-        d: Excellent condition, used only once. Works for two people! 
+        d: Excellent condition, used only once. Works for two people!
         img: kayak.jpg
         sold: true
 
@@ -616,15 +623,15 @@ categories:
   - name: Other Stuff
     icon: fa-boxes
     items:
-      - i: 10 Gallon Fish Tank Kit 
+      - i: 10 Gallon Fish Tank Kit
         p: $30
-        d: Fish tank, filter, heater, aerator, pH meter, salt measurer, decorations 
+        d: Fish tank, filter, heater, aerator, pH meter, salt measurer, decorations
         img: fishtank.JPG
         sold: true
 
-      - i: Biking Visibility Vest 
-        p: Free 
-        d: Stay safe! Make sure cars can see you 
+      - i: Biking Visibility Vest
+        p: Free
+        d: Stay safe! Make sure cars can see you
         img: viz.JPG
         sold: true
 
@@ -634,14 +641,14 @@ categories:
         img: aeropress.JPG
         sold: true
 
-      - i: Fishmate Autofeeder 
+      - i: Fishmate Autofeeder
         p: $10
-        d: Timed fish autofeeder 
+        d: Timed fish autofeeder
         img: autofeeder.JPG
 
-      - i: Tall Photography Light Stand 
-        p: Free 
-        d: For holding a strobe or light 
+      - i: Tall Photography Light Stand
+        p: Free
+        d: For holding a strobe or light
         img: lightstand.JPG
         sold: true
 
@@ -649,6 +656,7 @@ categories:
         p: $10
         d: Three curtains for $10
         img: greenscreen.JPG
+        sold: true
 
       - i: Sandusky Folding Shopping Cart
         p: $10
@@ -657,7 +665,7 @@ categories:
         sold: true
 
       - i: All Might Funko Pop!
-        p: Free 
+        p: Free
         d: Toy from the popular anime Boku no Hero Academia, comes with stand and box
         img: allmight.JPG
         sold: true
@@ -666,6 +674,7 @@ categories:
         p: $20
         d: Strap bought for like $50+, Weekender for $20+. Needs a battery
         img: timex.JPG
+        sold: true
 
       - i: Kalimba
         p: $80

@@ -6,21 +6,39 @@ categories:
         p: Free
         d: Kitchenware, mugs, USB cables, speakers, flashlights, shoehorn, random stuff
         img: free1.JPG
+        sold: true
 
       - i: Free Items 2
         p: Free
         d: Gloves, snackbags, lint roller, silverware, sunglasses, skincare, clip-on earrings, aquarium sand, tank decorations, ice tray
         img: free2.JPG
+        sold: true
+
+      - i: Free Items 3 (Skincare and Beauty Products)
+        p: Free
+        d: Skincare, beauty productrs
+        img: free2.JPG
+
+      - i: Free Items 4
+        p: Free
+        d: Sunglasses, camera flash, foam roller, storage hanger
+        img: free4.JPG
 
       - i: Nightstand
         p: Free
         d: Rustic looking nightstand
         img: nightstand.JPG
+        sold: true
 
       - i: IKEA Lack Side Table (White)
         p: Free
         d: White lack side table, imprinted with my short wife's footprint because she used it to climb up to reach clothes
         img: lackwhite.JPG
+
+      - i: IKEA Coffee Table
+        p: Free
+        d: It's our snack table, we will clear it off for you. May have some sticker adhesives to clean off
+        img: coffeetable.JPG
 
   - name: Furniture
     icon: fa-chair
@@ -30,10 +48,30 @@ categories:
         d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies
         img: center.JPG
 
+      - i: 10' x 6' Large Rug
+        p: $50
+        d: Our favorite rug, beautiful colorful yet muted pattern, centerpiece of the room. Clean, no stains, regularly vacuumed, no pets
+        img: rugbig.JPG
+
+      - i: 5' x 7' Medium Rug
+        p: $30
+        d: Black rug with flowers, retailed for $200. Clean, no stains, regularly vacuumed, no pets
+        img: rugblack.JPG
+
       - i: Hangers
-        p: $1 for 10
+        p: $1 for 15
         d: Stay organized. Ton of matching hangers, black or white or gray
         img: hangers.JPG
+
+      - i: Four Unit Center Stand
+        p: $5
+        d: Piece of furniture with 4 cubbies. We will clear the stuff out
+        img: 4storage.JPG
+
+      - i: Shoe / Clothes Rack with Baskets
+        p: $3
+        d: Store your clothes or shoes in this 4-level basket rack
+        img: clothesbasket.JPG
 
       - i: Ergonomic Standing Desk
         p: $80
@@ -78,9 +116,11 @@ categories:
         img: ikeaframe.jpg
 
       - i: Ikea MALM Dresser
-        p: $5
+        s: $5
+        p: $4
         d: Great wooden IKEA Malm dresser, preassembled
         img: dresser.JPG
+        sold: true
 
       - i: Acoustic Foam Sound Absorb Panels (x10)
         s: $1 each
@@ -111,11 +151,13 @@ categories:
         p: $10
         d: Colorful large rug! Very clean. Bought for $40
         img: ruglarge.JPG
+        sold: true
 
       - i: Gray Rug (3'3 x 4'7)
         p: $5
         d: Cozy shag collection solid gray rug, polyproylene, clean. Bought for $25
         img: rugshag.JPG
+        sold: true
 
       - i: Rolly Table
         p: $5
@@ -185,10 +227,11 @@ categories:
         p: $5
         d: 2 USB ports, one HDMI port, one SD card slot. Great for laptops
         img: dongle2.JPG
+        sold: true
 
-      - i: Wi-Fi Smart Plugs
+      - i: TPLink Wi-Fi Smart Plugs
         p: $5 Each
-        d: Control any electronic with a smarthome with these smart plugs. We have at least 4 available
+        d: Control any electronic with a smarthome with these smart plugs. Four sold, two more available
         img: smartplugs.JPG
 
       - i: iPad 2 16GB
@@ -461,6 +504,7 @@ categories:
         p: $150
         d: Premium coffee brewer with carafe. Goes for $320 on Amazon!
         img: mochamaster.JPG
+        sold: true
 
       - i: PARTU Air Filter + Extra Filter
         p: $30
@@ -557,6 +601,7 @@ categories:
         p: $30
         d: Bought new couple weeks ago and just beat it. Favorite Switch game
         img: mansion.JPG
+        sold: true
 
       - i: Super Mario Odyssey (Switch)
         s: $40
@@ -593,11 +638,6 @@ categories:
         img: design.JPG
         sold: true
 
-      - i: PixelSpirit Shader Deck
-        p: $20
-        d: Deck of cards to teach shaders
-        img: shaders.JPG
-
       - i: Watchmen
         s: $20
         p: $5
@@ -620,6 +660,11 @@ categories:
   - name: Outdoors
     icon: fa-sun-cloud
     items:
+      - i: Coleman 2-Person Sundome Tent
+        p: $40
+        d: Comes with poles, rainfly, tent. Used by excellent working condition, no tears or leaks
+        img: tent.png
+
       - i: TaoTronics 16' Retractable Dog Leash
         p: $4
         d: After rescuing a dog from a canyon in Hawaii, we almost adopted it. This unopened box of a leash is our reminder of that
@@ -654,6 +699,7 @@ categories:
         p: $25
         d: Rated 0F, but maybe better at 30F. Bought for $70, used couple times, only once outside
         img: teton.JPG
+        sold: true
 
       - i: Rare 2011 Supreme x North Face Sleeping Bag
         p: $749
@@ -697,6 +743,7 @@ categories:
         p: $15
         d: Kept my sanity in check as I lived underneath a noisy neighbor. Mask your neighbor or street sounds
         img: whitenoise.JPG
+        sold: true
 
       - i: WaterPik Flosser
         p: $15

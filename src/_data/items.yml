@@ -18,10 +18,11 @@ categories:
         p: Free
         d: Skincare, beauty productrs
         img: free2.JPG
+        sold: true
 
       - i: Free Items 4
         p: Free
-        d: Sunglasses, camera flash, foam roller, storage hanger
+        d: Skincare, sunglasses, camera flash, foam roller, storage hanger
         img: free4.JPG
 
       - i: Nightstand
@@ -44,7 +45,8 @@ categories:
     icon: fa-chair
     items:
       - i: IKEA Kallax Shelf Unit
-        p: $15
+        s: $15
+        p: $12
         d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies
         img: center.JPG
 
@@ -64,7 +66,8 @@ categories:
         img: hangers.JPG
 
       - i: Four Unit Center Stand
-        p: $5
+        s: $5
+        p: $4
         d: Piece of furniture with 4 cubbies. We will clear the stuff out
         img: 4storage.JPG
 
@@ -77,6 +80,7 @@ categories:
         p: $80
         d: Bought for $180. 32" wide, fits two monitors, adjustable, has wheels. Stand up and improve your health
         img: standingdesk.JPG
+        sold: true
 
       - i: Floating Bed Nightstand
         p: $10
@@ -84,7 +88,8 @@ categories:
         img: bedshelf.JPG
 
       - i: Desk Hammock for Feet
-        p: $5
+        s: $5
+        p: $4
         d: Rest your feet while you work, or keep them moving
         img: hammock.JPG
 
@@ -94,15 +99,16 @@ categories:
         img: hektor.JPG
 
       - i: Shoe Rack 1
-        p: $4 Each
+        s: $4
+        p: $3 Each
         d: Wooden shoe rack. We have two
         img: shoerack.JPG
 
       - i: Shoe Rack 2
-        p: $4
+        s: $4
+        p: $3
         d: Plastic shoe rack that can hold a lot of shoes
         img: shoerack2.JPG
-
 
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
         p: $10
@@ -111,8 +117,9 @@ categories:
         sold: true
 
       - i: IKEA MALM Queen Bed Frame
-        p: $30
-        d: Excellent birch bed frame with slab supports. Goes for $200 new (not incl. slabs)
+        s: $30
+        p: $15
+        d: Excellent birch bed frame with slab supports. Goes for $200 new (not incl. slabs). Disassembled with all screws and mounts and allen wrench, I can tell you how to assemble
         img: ikeaframe.jpg
 
       - i: Ikea MALM Dresser
@@ -331,7 +338,8 @@ categories:
         img: i3570k.JPG
 
       - i: Intel i7-7700K 4.2GHZ Quadcore CPU
-        p: $230
+        s: $230
+        p: $220
         d: An i7 Intel CPU
         img: i7700k.JPG
 
@@ -661,8 +669,9 @@ categories:
     icon: fa-sun-cloud
     items:
       - i: Coleman 2-Person Sundome Tent
-        p: $40
-        d: Comes with poles, rainfly, tent. Used by excellent working condition, no tears or leaks
+        s: $40
+        p: $30
+        d: Comes with poles, rainfly, tent. Used, but excellent working condition, no tears or leaks
         img: tent.png
 
       - i: TaoTronics 16' Retractable Dog Leash

@@ -8,6 +8,12 @@ categories:
         img: free1.JPG
         sold: true
 
+      - i: Short Shelf Counter
+        p: Free
+        d: Small counter table with glass shelves
+        img: shelftable.JPG
+        sold: true
+
       - i: Free Items 2
         p: Free
         d: Gloves, snackbags, lint roller, silverware, sunglasses, skincare, clip-on earrings, aquarium sand, tank decorations, ice tray
@@ -38,8 +44,39 @@ categories:
 
       - i: IKEA Coffee Table
         p: Free
-        d: It's our snack table, we will clear it off for you. May have some sticker adhesives to clean off
+        d: It's our snack table. Used condition with scratches, a dent, and leftover adhesive to clean off
         img: coffeetable.JPG
+
+      - i: Shoe Racks
+        p: Free
+        d: We have two of these shoe racks for free
+        img: shoerack.JPG
+
+      - i: Shoe Rack 2
+        p: Free
+        d: Plastic shoe rack that can hold a lot of shoes
+        img: shoerack2.JPG
+
+      - i: Hangers
+        p: Free
+        d: Stay organized. Ton of matching hangers, black or white or gray
+        img: hangers.JPG
+
+      - i: Four Unit Center Stand
+        p: Free
+        d: Piece of furniture with 4 cubbies. We will clear the stuff out
+        img: 4storage.JPG
+        sold: true
+
+      - i: Shoe / Clothes Rack with Baskets
+        p: Free
+        d: Store your clothes or shoes in this 4-level basket rack
+        img: clothesbasket.JPG
+
+      - i: IKEA MALM Queen Bed Frame
+        p: Free
+        d: Birch color bed frame with slab supports. Disassembled, comes with all screws and mounts, slabs, crossbar, rails
+        img: ikeaframe.jpg
 
   - name: Furniture
     icon: fa-chair
@@ -49,6 +86,7 @@ categories:
         p: $12
         d: Birch-colored TV stand or bookcase. Like new condition from Ikea, comes with two cubbies
         img: center.JPG
+        sold: true
 
       - i: 10' x 6' Large Rug
         p: $50
@@ -59,22 +97,7 @@ categories:
         p: $30
         d: Black rug with flowers, retailed for $200. Clean, no stains, regularly vacuumed, no pets
         img: rugblack.JPG
-
-      - i: Hangers
-        p: $1 for 15
-        d: Stay organized. Ton of matching hangers, black or white or gray
-        img: hangers.JPG
-
-      - i: Four Unit Center Stand
-        s: $5
-        p: $4
-        d: Piece of furniture with 4 cubbies. We will clear the stuff out
-        img: 4storage.JPG
-
-      - i: Shoe / Clothes Rack with Baskets
-        p: $3
-        d: Store your clothes or shoes in this 4-level basket rack
-        img: clothesbasket.JPG
+        sold: true
 
       - i: Ergonomic Standing Desk
         p: $80
@@ -98,29 +121,11 @@ categories:
         d: Our favorite lamp. Comes with wall mount, light bulb, screws
         img: hektor.JPG
 
-      - i: Shoe Rack 1
-        s: $4
-        p: $3 Each
-        d: Wooden shoe rack. We have two
-        img: shoerack.JPG
-
-      - i: Shoe Rack 2
-        s: $4
-        p: $3
-        d: Plastic shoe rack that can hold a lot of shoes
-        img: shoerack2.JPG
-
       - i: IKEA Balkarp Foldable Sofa (Blue / Gray)
         p: $10
         d: Blue / gray IKEA sofa. From very clean owners, space-efficient and lightweight
         img: couch.JPG
         sold: true
-
-      - i: IKEA MALM Queen Bed Frame
-        s: $30
-        p: $15
-        d: Excellent birch bed frame with slab supports. Goes for $200 new (not incl. slabs). Disassembled with all screws and mounts and allen wrench, I can tell you how to assemble
-        img: ikeaframe.jpg
 
       - i: Ikea MALM Dresser
         s: $5
@@ -261,7 +266,7 @@ categories:
 
       - i: Logitech Webcam 1080P C920 with Dual Mic
         s: $80
-        p: $75
+        p: $70
         d: Top recommended webcam, goes for $110 new on Amazon. I use my DSLR now
         img: webcam.JPG
 
@@ -384,7 +389,6 @@ categories:
         p: $3
         d: Wired keyboard with numpad, excellent condition
         img: amazonkeyboard.JPG
-        sold: true
 
       - i: Audio Technica ATH-50Mx Professional Monitor Headphones
         p: $60
@@ -545,11 +549,13 @@ categories:
         p: $40
         d: Good condition. Has couple hairline scratches on top screen that cannot be seen while system is on.
         img: 3dsred.JPG
+        sold: true
 
       - i: Nintendo 2DS Blue + Case + Charger
         p: $40
         d: Small hairline scratch on top screen that can't be seen while playing, some scuffs on top left plastic covered by case.
         img: 3dsblue.JPG
+        sold: true
 
       - i: Kirby Superstar (3DS)
         p: $10
@@ -601,8 +607,8 @@ categories:
         sold: true
 
       - i: Metal Gear Solid HD Collection (PS3)
-        p: $10
-        d: MGS for PS3
+        p: $5
+        d: MGS for PS3, disc only
         img: mgs.JPG
 
       - i: Luigi's Mansion 3 (Switch)

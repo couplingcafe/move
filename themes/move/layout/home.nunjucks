@@ -3,14 +3,14 @@
     <div class="sectionInner">
       <div class="heroLeft">
         <div class="header">
-          <h1 class="wordmark">Everything Must Go!</h1>
+          <h1 class="wordmark">The Sale is Over</h1>
         </div>
 
         <h2 class="title">San Francisco Move Out Sale</h2>
 
         <img class="hero heroImgMobile" src="/assets/img/move.png">
 
-        <p class="subtitle">Fire sale in Outer Richmond near 20th and Geary</p>
+        <p class="subtitle">The sale is now over. Thanks for checking in!</p>
 
         <a class="button challenge" href="mailto: kevin@learncoupling.com">
           <i class="fal fa-email"></i>

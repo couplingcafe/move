@@ -30,6 +30,7 @@ categories:
         p: Free
         d: Skincare, sunglasses, camera flash, foam roller, storage hanger
         img: free4.JPG
+        sold: true
 
       - i: Nightstand
         p: Free
@@ -51,16 +52,19 @@ categories:
         p: Free
         d: We have two of these shoe racks for free
         img: shoerack.JPG
+        sold: true
 
       - i: Shoe Rack 2
         p: Free
         d: Plastic shoe rack that can hold a lot of shoes
         img: shoerack2.JPG
+        sold: true
 
       - i: Hangers
         p: Free
         d: Stay organized. Ton of matching hangers, black or white or gray
         img: hangers.JPG
+        sold: true
 
       - i: Four Unit Center Stand
         p: Free
@@ -72,6 +76,7 @@ categories:
         p: Free
         d: Store your clothes or shoes in this 4-level basket rack
         img: clothesbasket.JPG
+        sold: true
 
       - i: IKEA MALM Queen Bed Frame
         p: Free
@@ -245,6 +250,7 @@ categories:
         p: $5 Each
         d: Control any electronic with a smarthome with these smart plugs. Four sold, two more available
         img: smartplugs.JPG
+        sold: true
 
       - i: iPad 2 16GB
         p: $50
@@ -642,7 +648,7 @@ categories:
     icon: fa-books
     items:
       - i: The VR Book
-        p: $20
+        p: $15
         d: Textbook. All about VR. Bought for $100
         img: vrbook.JPG
 
@@ -679,11 +685,13 @@ categories:
         p: $30
         d: Comes with poles, rainfly, tent. Used, but excellent working condition, no tears or leaks
         img: tent.png
+        sold: true
 
       - i: TaoTronics 16' Retractable Dog Leash
         p: $4
         d: After rescuing a dog from a canyon in Hawaii, we almost adopted it. This unopened box of a leash is our reminder of that
         img: leash.JPG
+        sold: true
 
       - i: Camelbak Backpack
         p: Free
